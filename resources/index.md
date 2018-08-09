@@ -27,3 +27,4 @@ Image:
 # Reviews of Digital Collections
 * [American Archivist: Archival Technologies and Resources](https://www2.archivists.org/american-archivist-reviews/tech-and-resources)
 * [sx archipelagos](http://www.smallaxe.net/sxarchipelagos/)
+* [SHARP News e-resources reviews](http://www.sharpweb.org/sharpnews/category/e-resource/)
