@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Welcome"
+title: "Instructions for Reviewers"
 modified:
-categories: blog
+categories: tutorial
 excerpt:
 tags: []
 author: halperta

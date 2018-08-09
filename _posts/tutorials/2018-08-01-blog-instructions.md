@@ -29,7 +29,7 @@ You'll need to create an author ID for the website so that your review can be at
 
 1. Log in to GitHub and navigate to:  
 [https://github.com/halperta/criticalarchives/blob/gh-pages/_data/authors.yml](https://github.com/halperta/criticalarchives/blob/gh-pages/_data/authors.yml)
-2. **Important:** Make sure the branch has been changed from `gh-pages-2.3.4` to `gh-pages`. To do this, find the drop-down menu that says "branch" near the top of the page, and select `gh-pages.`
+2. **Important:** Make sure the branch has been changed from `master` to `gh-pages`. To do this, find the drop-down menu that says "branch" near the top of the page, and select `gh-pages.`
 3. Open the file for editing by selecting the pen icon in the upper right corner of the screen. 
 4. Create a biographical entry by copying someone else's and pasting it at the bottom of the document, replacing their information with your own info. At the very least, you should add a single-word author id, as well as your name. If you want to have a photograph of yourself to link to the page, enter the file name of the image, including the extension, under "avatar." It should look something like this:  
 
