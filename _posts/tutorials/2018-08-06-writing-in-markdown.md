@@ -2,7 +2,7 @@
 layout: post
 title: "Writing in Markdown"
 modified:
-categories: blog
+categories: tutorial
 excerpt:
 tags: []
 author: halperta
@@ -14,7 +14,12 @@ image:
 
 [Markdown](https://en.wikipedia.org/wiki/Markdown) is a simple formatting language for writing text. It works a lot like HTML, only it's a lot easier to use.
 
-You'll be writing your blog post in Markdown. That means that you should compose the text (or copy the text) into a *plain text editor*. Notebook is one popular program. I like to use [Sublime](https://www.sublimetext.com/). Follow these instructions to get started:
+You'll be writing your blog post in Markdown. 
+
+You have two options for composing the post:
+1. Compose in GitHub: Follow steps 1-3 for 
+
+That means that you should compose the text in a *plain text editor*. Notebook is one popular program. I like to use [Sublime](https://www.sublimetext.com/). Follow these instructions to get started:
 
 ## YAML header
 Your file should begin with a header that looks exactly like this (including the dashes):

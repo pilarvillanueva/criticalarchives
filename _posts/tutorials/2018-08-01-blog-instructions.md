@@ -50,7 +50,7 @@ You'll need to create an author ID for the website so that your review can be at
 
 *7. (Optional): If you want to include an author photo, please email it to Hannah for uploading!*
 
-## Step 3: Upload your review post
+## Step 3: Upload your review 
 1. **Log in to GitHub** and navigate to: [https://github.com/halperta/criticalarchives/tree/gh-pages/_posts/blog](https://github.com/halperta/criticalarchives/tree/gh-pages/_posts/blog)  
 2. Make sure that you are in the `gh-pages` branch (upper left corner).
 3. In the upper right corner, click on the button that reads `create new file`.
@@ -67,6 +67,7 @@ You'll need to create an author ID for the website so that your review can be at
 	5. Change the branch to "patch-1" using the drop-down menu, and you should see your file.
 	6. To make changes, open the file, then use the edit button (the pencil) in the upper-right-hand corner. 
 	7. Once you have made your changes, you can "commit the changes" using the form at the bottom of the page. Write a brief message describing your changes (for example: `fixed broken link.`)
+
 ## Step 4: Request a review
 1. Email your reviewer to alert them that your post is ready to review. Include the URL to the GitHub page where the post is located. (i.e. `https://github.com/username/criticalarchives/blob/patch-1/_posts/blog/testblog1.md`)
 2. **Revise your review:** Once you have received comments from your reviewer, you can make revisions to your original file... if you know where it is. It can be a little tricky to find, so follow these instructions:
