@@ -15,8 +15,11 @@
 - title: Resources
   url: /resources/
 
-- title: Blog
+- title: Reviews
   url: /blog/
+
+- title: Instructions
+  url: /articles/
 
 # - title: Theme Setup
 #   url: /theme-setup/

@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "Making a Blog Post"
+title: "Publishing your Critical Review"
 modified:
-categories: blog
-excerpt: In this course, you will be invited to share a critical reflection with the public on this course website.  
+categories: tutorial
+excerpt: In this course, you will be invited to share a critical review of a digital collection with the public on this course website.  
 tags: []
 author: halperta
 image:
   feature:
 ---
-In this course, you will be invited to share a critical reflection with the public on this course website ([more info](../../assignments)). To do this, you will need to learn how to:
+In this course, you will be invited to share a critical review with the public on this course website ([more info](../../assignments)). To do this, you will need to learn how to:
 * Create a GitHub account
 * Write a blog post in markdown
 * Push your changes to the website.
@@ -111,7 +111,7 @@ Lists:
 5. **Copy and paste** the text of your blog post into the text box. Use the `preview` tab (just to the right of the `edit new file` tab) to see what your post will look like.
 
 ## Step 5: Submit your post for review
-1. 
+
 
 ## Step 6: Propose your file and merge changes
 1. **Propose file:**
