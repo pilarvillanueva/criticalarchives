@@ -20,6 +20,7 @@ Image:
 * [Gabriel Garc&iacute;a M&aacute;rquez Archive Online](https://hrc.contentdm.oclc.org/digital/collection/p15878coll51/)  
 
 ### Global
+* [Colony in Crisis](https://colonyincrisis.lib.umd.edu/)
 * [Digital Library of the Caribbean](http://www.dloc.com/)
 * [Early Caribbean Digital Archive](https://ecda.northeastern.edu/)
 * [Puerto Rico Citizenship Archives Project](https://scholarscollaborative.org/PuertoRico/) (UConn) 
