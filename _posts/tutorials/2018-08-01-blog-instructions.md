@@ -36,11 +36,11 @@ As long as you are working with your "fork" of someone else's project, your chan
 4. When the "forking" is done, you will automatically be directed to a new copy of the website stored on your GitHub account. Its name should be something like "yourusername/criticalarchives", and it should say "forked from halperta/criticalarchives" in the upper left corner. This is now your copy of the project.
 
 ## Step 3: Create an author ID.
-You'll need to create an author ID for the website so that your review can be attributed properly. To do this, follow these steps. Or [watch the video tutorial.](https://youtu.be/RDR-BhB-e84)  
+You'll need to create an author ID for the website so that your review can be attributed properly. To do this, follow these steps. Or [watch the video tutorial.](https://youtu.be/RDR-BhB-e84) (Note: turn on closed captions to view the text instructions.)  
 
 1. Log in to GitHub and navigate to your fork of the critical archives website. If you don't remember the URL, you can find the fork among your repositories. Your repositories should be linked from your GitHub home page. 
 2. **Important:** Change the branch from `master` to `gh-pages`. To do this, find the drop-down menu that says "branch" near the top left of the page, and select `gh-pages.`
-3. Navigate to the `author` file (`_data/authors.yml`): 
+3. Navigate to the "author" file (`_data/authors.yml`): 
 	* Click on the `_data` directory to open it.
 	* Click on the `authors.yml` file.
 4. **Open the file for editing**: click on the pen icon in the upper right corner of the screen. 
@@ -51,35 +51,34 @@ You'll need to create an author ID for the website so that your review can be at
        email: email@utexas.edu  
        bio:  
        avatar:  image.jpg  
-       twitter:  handle
+       twitter:  handle  
        google:  
          plus:  
 
-5. **Commit your changes:** Once you've added your own author entry to the file, "commit changes":  
-	1. At the bottom of the page, in the text block where it says "Update authors.yml," enter a brief description of your proposed change. It should be something like: `Added author: Hannah Alpert-Abrams.`  
-	2. Click "commit."
+6. **Commit your changes:** Once you've added your own author entry to the file, "commit changes":  
+	* At the bottom of the page, in the text block where it says "Update authors.yml," enter a brief description of your proposed change. It should be something like: `Added author: Hannah Alpert-Abrams.`  
+	* Click "commit."
 
-*6. (Optional):* If you want to upload an author image:  
+7. *(Optional)*: If you want to upload an author image:  
 	* Return to the home page of your fork of the Critical Archives project. 
 	* Switch the `gh-pages` branch using the drop-down menu.
 	* Open the `images` directory.
 	* In the upper right corner, click `upload files.`
 	* Drag and drop your image to upload the image.
 	* Write a commit message: at the bottom, where it says "Add files via upload," write a brief message describing your change, i.e. "Uploading author photo for Hannah Alpert-Abrams."
-	* Click `commit changes`.
+	* Click `commit changes`.  
 
-
-7. **Merge your changes:** To update the website, you'll need to merge your changes back into the original project by following these steps.  
+8. **Merge your changes:** To update the website, you'll need to merge your changes back into the original project by following these steps.  
 	* Navigate to the repository home page and choose the `gh-pages` branch from the drop-down menu.
 	* Click the `New pull request` button, which is right next to the `branch` dropdown menu. 
-	* Make sure the base fork is `halperta/criticalarchives` and the branch is `gh-pages`. The head fork should be `yourusername/criticalarchives` and the branch should be gh-pages.
+	* Make sure the base fork is `halperta/criticalarchives` and the branch is `gh-pages`. The head fork should be `yourusername/criticalarchives` and the branch should be `gh-pages`.
 	* In the comment box, make sure the description matches what you're doing. It should say something like "Adding author id and photo for Hannah Alpert-Abrams."
 	* Click `Create pull request`.
 
 We'll check and approve your changes before the modification goes live.
 
 ## Step 4: Upload your review 
-Uploading your review is going to look a lot like editing your author id. The only difference is that you'll be having someone review your changes before you merge them with the website. You can also watch the [video tutorial](https://youtu.be/TRhuFvoOZXk)).
+Uploading your review is going to look a lot like editing your author id. The only difference is that you'll be having someone review your changes before you merge them with the website. You can also watch the [video tutorial](https://youtu.be/TRhuFvoOZXk). Note: turn on closed captions to view the text instructions].  
 
 1. **Log in to GitHub** and navigate to your fork of the Critical Archives repository. Confirm that you're in your fork: it should be called "yourusername/criticalarchives" and it should be forked from "halperta/criticalarchives."
 2. **Confirm location**: Switch to the `gh-pages` branch (upper left corner). Open the `_posts/blog` directory.
@@ -92,20 +91,21 @@ Uploading your review is going to look a lot like editing your author id. The on
 	3. You can continue editing this file. Just make sure you're always in your fork of the website (`yourusername/criticalwebsite`) and that you're always in the `gh-pages` branch.
 
 ## Step 5: Request a review
-1. Email your reviewer to alert them that your post is ready to review. Include the URL to the GitHub page where the post is located. (i.e. `https://github.com/CriticalArchives/criticalarchives/blob/gh-pages/_posts/blog/2018-08-01-test-blog.md`)
+To come.
+<!-- 1. Email your reviewer to alert them that your post is ready to review. Include the URL to the GitHub page where the post is located. (i.e. `https://github.com/CriticalArchives/criticalarchives/blob/gh-pages/_posts/blog/2018-08-01-test-blog.md`)
 2. **Revise your review:** Once you have received comments from your reviewer, you can make revisions to your original file, following the same steps you used to edit the file previously:
 	1. Navigate to github.com
 	2. On the left of the screen you'll see a list of repositories. (note: there are other ways to find your repositories, they all work.)
 	3. Open the `yourusername/criticalarchives` repository and navigate to the `_posts/blog` directory. At this point you should see the posts that are currently on the course website.
 	5. Using the drop-down menu in the upper left corner, change the branch from "master" to "gh-pages".
 	6. You should now see the file you created. You can click on that file to open it, and then use the edit button to make changes. 
-	7. Once you have made your changes, you can "commit the changes" using the form at the bottom of the page. Write a brief message describing your changes (for example: "began copyediting review," "reformatted headings," or "completed copyediting").
+	7. Once you have made your changes, you can "commit the changes" using the form at the bottom of the page. Write a brief message describing your changes (for example: "began copyediting review," "reformatted headings," or "completed copyediting"). -->
  
 ## Step 6: Merge your changes
-[[Watch the video tutorial.](https://youtu.be/54ORGhWaFKE)]
+[[Watch the video tutorial.](https://youtu.be/54ORGhWaFKE) Note: turn on closed captions to view the text instructions.]
 1. Navigate to your forked repository. You can do this by navigating to your profile, opening the `repositories` tab, and then selecting the `critical archives` repository. You can also follow the URL directly: it should be something like `https://github.com/username/criticalarchives`.
 2. At the top of the page, you should see a highlighted alert showing your `recently pushed branches.` Click the green tab that says `Compare & Pull Request.`
-3. **Open a pull request:** Make sure that the *base fork* is `halperta/criticalarchives`, the *base* is `gh-pages`, the *head fork* is `yourusername/criticalarchives`, and *compare* is `patch 1`.
+3. **Open a pull request:** Make sure that the *base fork* is `halperta/criticalarchives`, the *base* is `gh-pages`, the *head fork* is `yourusername/criticalarchives`, and *compare* is `gh-pages`.
 4. In the comment box, write: `submitting review for publication by Your Name`
 5. Click `Create Pull Request`.
 
