@@ -91,7 +91,7 @@ Uploading your review is going to look a lot like editing your author id. The on
 	2. Click "commit new file" to save your updates to your fork of the website. 
 	3. You can continue editing this file. Just make sure you're always in your fork of the website (`yourusername/criticalwebsite`) and that you're always in the `gh-pages` branch.
 
-## Step 4: Request a review
+## Step 5: Request a review
 1. Email your reviewer to alert them that your post is ready to review. Include the URL to the GitHub page where the post is located. (i.e. `https://github.com/CriticalArchives/criticalarchives/blob/gh-pages/_posts/blog/2018-08-01-test-blog.md`)
 2. **Revise your review:** Once you have received comments from your reviewer, you can make revisions to your original file, following the same steps you used to edit the file previously:
 	1. Navigate to github.com
@@ -101,7 +101,7 @@ Uploading your review is going to look a lot like editing your author id. The on
 	6. You should now see the file you created. You can click on that file to open it, and then use the edit button to make changes. 
 	7. Once you have made your changes, you can "commit the changes" using the form at the bottom of the page. Write a brief message describing your changes (for example: "began copyediting review," "reformatted headings," or "completed copyediting").
  
-## Step 5: Merge your changes
+## Step 6: Merge your changes
 [[Watch the video tutorial.](https://youtu.be/54ORGhWaFKE)]
 1. Navigate to your forked repository. You can do this by navigating to your profile, opening the `repositories` tab, and then selecting the `critical archives` repository. You can also follow the URL directly: it should be something like `https://github.com/username/criticalarchives`.
 2. At the top of the page, you should see a highlighted alert showing your `recently pushed branches.` Click the green tab that says `Compare & Pull Request.`
