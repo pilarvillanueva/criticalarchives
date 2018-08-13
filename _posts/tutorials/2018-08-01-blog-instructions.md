@@ -28,14 +28,15 @@ As long as you are working with your "fork" of someone else's project, your chan
 [https://github.com/](https://github.com/)  
 2. After you create an account, you'll need to verify your email before moving on to the next step.  
 
-##Step 2: Fork the Critical Digital Archives Website
+## Step 2: Fork the Critical Digital Archives Website  
+[[Watch the video tutorial.](https://youtu.be/RDR-BhB-e84)]
 1. Log in to GitHub.
 2. Navigate to the GitHub project for the Critical Archives website. This is where all the files that make up the website are stored: [https://github.com/halperta/criticalarchives/](https://github.com/halperta/criticalarchives/)
 3. "Fork" the project using the `fork` button on the upper right hand corner of the website.
 4. When the "forking" is done, you will automatically be directed to a new copy of the website stored on your GitHub account. Its name should be something like "yourusername/criticalarchives", and it should say "forked from halperta/criticalarchives" in the upper left corner. This is now your copy of the project.
 
 ## Step 3: Create an author ID.
-You'll need to create an author ID for the website so that your review can be attributed properly. To do this, follow these steps [[video](https://youtu.be/RDR-BhB-e84)]:
+You'll need to create an author ID for the website so that your review can be attributed properly. To do this, follow these steps. Or [watch the video tutorial.](https://youtu.be/RDR-BhB-e84)  
 
 1. Log in to GitHub and navigate to your fork of the critical archives website. If you don't remember the URL, you can find the fork among your repositories. Your repositories should be linked from your GitHub home page. 
 2. **Important:** Change the branch from `master` to `gh-pages`. To do this, find the drop-down menu that says "branch" near the top left of the page, and select `gh-pages.`
@@ -101,6 +102,7 @@ Uploading your review is going to look a lot like editing your author id. The on
 	7. Once you have made your changes, you can "commit the changes" using the form at the bottom of the page. Write a brief message describing your changes (for example: "began copyediting review," "reformatted headings," or "completed copyediting").
  
 ## Step 5: Merge your changes
+[[Watch the video tutorial.](https://youtu.be/54ORGhWaFKE)]
 1. Navigate to your forked repository. You can do this by navigating to your profile, opening the `repositories` tab, and then selecting the `critical archives` repository. You can also follow the URL directly: it should be something like `https://github.com/username/criticalarchives`.
 2. At the top of the page, you should see a highlighted alert showing your `recently pushed branches.` Click the green tab that says `Compare & Pull Request.`
 3. **Open a pull request:** Make sure that the *base fork* is `halperta/criticalarchives`, the *base* is `gh-pages`, the *head fork* is `yourusername/criticalarchives`, and *compare* is `patch 1`.
