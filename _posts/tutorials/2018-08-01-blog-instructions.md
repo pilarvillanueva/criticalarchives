@@ -77,35 +77,27 @@ You'll need to create an author ID for the website so that your review can be at
 
 We'll check and approve your changes before the modification goes live.
 
-## Step 3: Upload your review 
-Uploading your review is going to look a lot like editing your author id. The only difference is that you'll be having someone review your changes before you merge them with the website.  
+## Step 4: Upload your review 
+Uploading your review is going to look a lot like editing your author id. The only difference is that you'll be having someone review your changes before you merge them with the website. You can also watch the [video tutorial](https://youtu.be/TRhuFvoOZXk)).
 
 1. **Log in to GitHub** and navigate to your fork of the Critical Archives repository. Confirm that you're in your fork: it should be called "yourusername/criticalarchives" and it should be forked from "halperta/criticalarchives."
 2. **Confirm location**: Switch to the `gh-pages` branch (upper left corner). Open the `_posts/blog` directory.
 3. **Create file**: In the upper right corner, click on the button that reads `create new file`.
-4. **Name your file** using the current date. The name should be `YYYY-MM-DD-short-title.md` . For example, this tutorial is named `2018-08-01-blog-instructions.md`
+4. **Name your file** using the date you're planning to publish the review (your second due-date). The name should be `YYYY-MM-DD-short-title.md` . For example, this tutorial is named `2018-08-01-blog-instructions.md`
 5. **Copy and paste** the text of your review into the text box. Use the `preview` tab (just to the right of the `edit new file` tab) to see what your post will look like. (*Note: If you feel comfortable on GitHub, you can write your review directly into this text editor.*)
-6. **Save** the text of your review on GitHub by "proposing a file":
-	1. At the bottom of the page, in the text block where it says "Create filename.md," enter a brief description of your proposed change. It should be something like: "Posting review by Hannah Alpert-Abrams." 
-	2. Click "propose file change." This will create what's known as a fork (basically a copy) of the website in your own GitHub account. When you're ready to publish, you'll merge your fork back into the website.
-7. **Continue editing:** this can be a bit complicated, so follow these constructions if you want to go back to your post later.
-	1. Navigate to github.com
-	2. On the left of the screen you'll see a list of repositories. (note: there are other ways to find your repositories, they all work.)
-	3. One of the repositories should be called something like . This is your "fork" of the course website.
-	4. Open the `yourusername/criticalarchives` repository and open the `_posts/blog` directory. At this point you should see the posts that are currently on the course website.
-	5. Using the drop-down menu in the upper left corner, change the branch from "master" to "patch-1". (Note: if you've made more than one fork, you may see more than one patch: pick the highest number.)
-	6. You should now see the file you created. You can click on that file to open it, and then use the edit button (the pen) to make changes. 
-	7. Once you have made your changes, save the changes by using the "commit changes" form at the bottom of the page. Write a brief message describing your changes (for example: `fixed broken link.`)
+6. **Save** the text of your review on GitHub by "committing a new file":
+	1. At the bottom of the page, in the text block where it says "Create filename.md," enter a brief description of your proposed change. It should be something like: "Creating review of Article Title by Your Name." 
+	2. Click "commit new file" to save your updates to your fork of the website. 
+	3. You can continue editing this file. Just make sure you're always in your fork of the website (`yourusername/criticalwebsite`) and that you're always in the `gh-pages` branch.
 
 ## Step 4: Request a review
-1. Email your reviewer to alert them that your post is ready to review. Include the URL to the GitHub page where the post is located. (i.e. `https://github.com/username/criticalarchives/blob/patch-1/_posts/blog/testblog1.md`)
+1. Email your reviewer to alert them that your post is ready to review. Include the URL to the GitHub page where the post is located. (i.e. `https://github.com/CriticalArchives/criticalarchives/blob/gh-pages/_posts/blog/2018-08-01-test-blog.md`)
 2. **Revise your review:** Once you have received comments from your reviewer, you can make revisions to your original file, following the same steps you used to edit the file previously:
 	1. Navigate to github.com
 	2. On the left of the screen you'll see a list of repositories. (note: there are other ways to find your repositories, they all work.)
-	3. One of the repositories should be called something like . This is your "fork" of the course website.
-	4. Open the `yourusername/criticalarchives` repository and open the `_posts/blog` directory. At this point you should see the posts that are currently on the course website.
-	5. Using the drop-down menu in the upper left corner, change the branch from "master" to "patch-1". (Note: if you've made more than one fork, you may see more than one patch: pick the highest number.)
-	6. You should now see the file you created. You can click on that file to open it, and then use the edit button (the pen) to make changes. 
+	3. Open the `yourusername/criticalarchives` repository and navigate to the `_posts/blog` directory. At this point you should see the posts that are currently on the course website.
+	5. Using the drop-down menu in the upper left corner, change the branch from "master" to "gh-pages".
+	6. You should now see the file you created. You can click on that file to open it, and then use the edit button to make changes. 
 	7. Once you have made your changes, you can "commit the changes" using the form at the bottom of the page. Write a brief message describing your changes (for example: "began copyediting review," "reformatted headings," or "completed copyediting").
  
 ## Step 5: Merge your changes

@@ -17,9 +17,9 @@ image:
 You'll be writing your blog post in Markdown. 
 
 You have two options for composing the post:
-1. Compose in GitHub: Follow steps 1-3 for 
+1. Compose in GitHub: Follow steps 1-4 in the `Publishing a Digital Review` tutorial. Once you've created a new file (in step four) you can compose the file directly in GitHub, using the "commit" feature to save the file online.
 
-That means that you should compose the text in a *plain text editor*. Notebook is one popular program. I like to use [Sublime](https://www.sublimetext.com/). Follow these instructions to get started:
+2. You can also compose your post using a plain text editor, and then copy and paste it into the GitHub repository. Notebook is one popular program. I like to use [Sublime](https://www.sublimetext.com/). Follow these instructions to get started, or [view the markdown for this post](http://www.halperta.com/criticalarchives/tutorial/writing-in-markdown/).
 
 ## YAML header
 Your file should begin with a header that looks exactly like this (including the dashes):
