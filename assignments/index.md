@@ -19,7 +19,7 @@ At least once during the semester, you will be assigned to serve as a Commentato
  
 *Moderador:*  Esta persona mantiene la discusión y el orden durante la sesión. Se asegura de que ningún participante domine la sesión, y que los presentadores y comentaristas se ciñan al tiempo que se les ha asignado. Mantiene una lista de todos los que quieren hablar y si alguien que no ha hablado quiere intervenir, lo mueve al principio de la lista. Y por supuesto lee todos los ensayos para animar la discusión de ser necesario.  
  
-Adapted from sessions at the Instituto Tepoztlán (2017). Do everything in your power to attend this extraordinary annual meeting of scholars for one week during the summer in Tepoztlán, México. ABD and faculty only.  
+*Adapted from sessions at the Instituto Tepoztlán (2017). Do everything in your power to attend this extraordinary annual meeting of scholars for one week during the summer in Tepoztlán, México. ABD and faculty only.*  
 
 <a href="#top">Back to top</a>
 
