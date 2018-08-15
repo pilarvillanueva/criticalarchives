@@ -23,24 +23,6 @@ At least once during the semester, you will be assigned to serve as a Commentato
 
 <a href="#top">Back to top</a>
 
-# Key Concept Reports
-
-Key Concept resources offer novices a place to start with unfamiliar or complex topics. They generally consist of definitions, controversies, seminal thinkers, and so on. [Take a look at Dictionary of Critical Theory or Diccionario de estudios culturales for examples].
-
-At the end of each unit (due dates below), you will produce a 500-word entry that can serve as an introduction to a concept, topic, theory, or argument of your choosing drawn from the readings and discussions of the unit. You may consult outside readings as well to flesh out the entry as well.  Consider your audience to be an advanced undergraduate population. This is an opportunity for you to practice synthesizing the works of others, a skill you will employ throughout your career, and to be as clear and concise as possible taking into consideration the 500-word limit. 
-
-Key Concept #1 due: September 27  
-
-Key Concept #2 due: October 25  
-
-Key Concept #3 due: November 29  
-
-Key Concepts are graded complete or incomplete, and will be revised based on professor feedback. Both the original and revised versions will be due on the final day of class, and will include a brief memo explaining the changes/improvements you made.
-
-Students from the Department of Spanish and Portuguese should write their Key Concepts in either Spanish or Portuguese.
-
-<a href="#top">Back to top</a>
-
 # Digital Collection Review
 Over the course of the semester, each student will write one 750-900 word review of a digital archive or collection of their choice. For the purposes of this assignment, any coherent set of digital objects that has been put online by a library or archive and that has some relevance to the fields of Latin American, colonial, or Indigenous studies would be appropriate. You may choose any collection, including those featured on the resources tab of the course website. The review will be posted on the course website for a public audience, and should adhere to the following guidelines (derived from the American Archivist Reviews Online):
 Briefly describe the material, providing a simple overview and summary.  Who created it and what does it contain?
