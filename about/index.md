@@ -23,6 +23,7 @@ Office Hours: TBD
 I am a CLIR Postdoctoral Fellow in Data Curation for Latin American Studies at the University of Texas at Austin (2017-2019). From 2015-2017, I managed the Reading the First Books project at LLILAS Benson Latin American Studies and Collections. As a CLIR fellow, I am working with the digital archive of the Policía Nacional de Guatemala as part of the post-custodial digital archiving initiatives at LLILAS Benson. I earned my PhD in comparative literature from the University of Texas at Austin in 2017. 
 
 ## Kelly McDonough
+she, her, hers | please call me Kelly \\
 E-mail: kelly.mcdonough@austin.utexas.edu  
 Office: BEN 3.142  
 Office Hours: TBD, by appointment: [https://kellysmcdonough.youcanbook.me/](https://kellysmcdonough.youcanbook.me/)
