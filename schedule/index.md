@@ -62,7 +62,7 @@ All readings are available either through the links on this website, or through 
   <tr bgcolor="#EBF5FB">
    <td> 4. Klein, Lauren F. "The Image of Absence: Archival Silence, Data Visualization, and James Hemings." <i>American Literature</i> (2013) 85 (4): 661-688. https://doi.org/10.1215/00029831-2367310</td>
   </tr>
-  <tr bgcolor="LightGray">
+  <tr bgcolor="EBF5FB">
     <td> 5. <a href="https://github.com/saa-ts-dacs/dacs/blob/1fcf9c4ad2888384d2664bf998e1474b44d84697/statement_of_principles.md">DACS statement of principles.</a></td>
   </tr>
 
