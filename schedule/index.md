@@ -35,19 +35,18 @@ All readings are available either through the links on this website, or through 
 
   <tr bgcolor="LightGray">
     <th rowspan="4">September 13, 2018 (Unit 1)</th>
-    <td> 1. Aguirre, Carlos and Javier Villa-Flores. “Los archivos y la construcción de la verdad histórica en América Latina.”  Jahrbuch für Geschichte Lateinamerikas, Volume 46, Issue 1 (2009). 5–18.</td>
+    <td> 1. Burns, Kathryn. "Introduction." <i>Into the Archive.</i> Durham: Duke University Press, 2010. 1-19.</td>
     <td rowspan="4"> None. </td>
   </tr>
   <tr bgcolor="LightGray">
-    <td> 2. Lara Putnam. "The Transnational and the Text-Searchable: Digitized Sources and the Shadows They Cast.” <a>American Historical Review</a> 2016 121 (2): 377-402.</td>
+    <td> 2. Aguirre, Carlos and Javier Villa-Flores. “Los archivos y la construcción de la verdad histórica en América Latina.”  Jahrbuch für Geschichte Lateinamerikas, Volume 46, Issue 1 (2009). 5–18.</td>
   </tr>
   <tr bgcolor="LightGray">
-    <td> 3. Burns, Kathryn. "Introduction." <i>Into the Archive.</i> Durham: Duke University Press, 2010. 1-19.</td>
+    <td> 3. Hardy, Molly O’Hagan. "Bibliographic Enterprise and the Digital Age: Charles Evans and the Making of Early American Literature." <i>American Literary History</i>, Volume 29, Issue 2 (1 May 2017). 331–351. https://doi.org/10.1093/alh/ajx002</td>
   </tr>
   <tr bgcolor="LightGray">
-    <td> 4. Hardy, Molly O’Hagan. "Bibliographic Enterprise and the Digital Age: Charles Evans and the Making of Early American Literature." <i>American Literary History</i>, Volume 29, Issue 2 (1 May 2017). 331–351. https://doi.org/10.1093/alh/ajx002</td>
+    <td> 4. Lara Putnam. "The Transnational and the Text-Searchable: Digitized Sources and the Shadows They Cast.” <i>American Historical Review</i> 2016 121 (2): 377-402.</td>
   </tr>
-
 
   <tr bgcolor="#EBF5FB">
     <th rowspan="5">September 20, 2018 (Unit 1)</th>
