@@ -25,6 +25,7 @@ At least once during the semester, you will be assigned to serve as a Commentato
 
 # Digital Collection Review
 Over the course of the semester, each student will write one 750-900 word review of a digital archive or collection of their choice. For the purposes of this assignment, any coherent set of digital objects that has been put online by a library or archive and that has some relevance to the fields of Latin American, colonial, or Indigenous studies would be appropriate. You may choose any collection, including those featured on the resources tab of the course website. The review will be posted on the course website for a public audience, and should adhere to the following guidelines (derived from ["How to Write a Web Review for *The American Archivist Reviews Online*"](http://files.archivists.org/periodicals/How_to_Write_a_Web_Review.pdf)):
+* Begin the review with a bibliographical citation of the digital archive in MLA format, along with a link to the website.
 * Briefly describe the material, providing a simple overview and summary.  Who created it and what does it contain?
 * Discuss the resource within an archival context, its relationship to archives and its significance for the discipline. This should include reference to at least one class reading.  
 * Evaluate the resource as a whole in terms of its usefulness to archivists and users of archives materials. This should include not just the content of the collection, but also its interface and metadata.  
@@ -32,7 +33,8 @@ Over the course of the semester, each student will write one 750-900 word review
 
 *Submission guidelines*  
 * Check out the [sample reviews on the resources tab](https://guides.lib.utexas.edu/latinamericanstudies) for inspiration.
-* Follow the [“Making a Blog Post” tutorial](../../resources/index.html) to upload your article.
+* Follow the [“Publishing a Digital Review” tutorial](http://www.halperta.com/criticalarchives/tutorial/blog-instructions/) to upload your article.
+* Your review may be written in Spanish or English.
 
 <a href="#top">Back to top</a>
 
