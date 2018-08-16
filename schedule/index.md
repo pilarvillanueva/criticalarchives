@@ -29,7 +29,7 @@ All readings are available either through the links on this website, or through 
     <td align="left"><a href="http://assets.press.princeton.edu/chapters/s8821.pdf">4. Stoler, Ann Laura. "Chapter 1: A Prologue in Two Parts.” <i>Along the Archival Grain.</i> Princeton: Princeton University Press, 2010. 1-16.</a></td>
   </tr>
   <tr bgcolor="#EBF5FB">
-    <td align="left">5. Lazo, Rodrigo. “Migrant Archives.” In <i>States of Emergency.</i> Russ Castronovo and Susan Gillman, ed. Chapel Hill: The University of North Carolina Press, 2009. 36-54.</td>
+    <td align="left"><a href="http://www.coglib.com/~rcordasc/arg/Lazo.pdf">5. Lazo, Rodrigo. “Migrant Archives.” In <i>States of Emergency.</i> Russ Castronovo and Susan Gillman, ed. Chapel Hill: The University of North Carolina Press, 2009. 36-54.</a></td>
   </tr>
 
 
