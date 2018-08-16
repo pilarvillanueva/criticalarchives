@@ -4,6 +4,12 @@ title: Schedule
 Image:
 ---
 
+# Note
+All readings are available either through the links on this website, or through canvas.  
+
+If you are not in this class and you would like access to one of these texts, email Hannah.
+
+# Calendar
 <table style="width:100%">
   <tr bgcolor="LightGray">
     <th align="left">Date</th>
@@ -13,14 +19,14 @@ Image:
 
   <tr bgcolor="#EBF5FB">
     <th align="left" rowspan="5">September 6, 2018</th>
-    <td align="left">1. Caswell, Michelle. “Owning Critical Archival Studies: A Plea.” <i>Archival Education and Research Institute</i> (2016). 1-9.</td>
+    <td align="left">1. <a href="https://escholarship.org/uc/item/75x090df">Caswell, Michelle. “Owning Critical Archival Studies: A Plea.” <i>Archival Education and Research Institute</i> (2016). 1-9.</a></td>
     <td align="left"  rowspan="5"> None. </td>
   </tr>
   <tr bgcolor="#EBF5FB">
     <td align="left">2. Trouillot, Michel-Rolph. “Chapter 1: The Power in the Story.” <i>Silencing the Past: Power and the Production of History.</i> Boston: Beacon Press, 1995.  1-31.</td>
   </tr>
   <tr bgcolor="#EBF5FB">
-    <td align="left"><a href="http://assets.press.princeton.edu/chapters/s8821.pdf">3. Stoler, Ann Laura. “Introduction.” <i>Along the Archival Grain.</i> Princeton: Princeton University Press, 2010. 1-16.</a></td>
+    <td align="left"><a href="http://assets.press.princeton.edu/chapters/s8821.pdf">3. Stoler, Ann Laura. "Chapter 1: A Prologue in Two Parts.” <i>Along the Archival Grain.</i> Princeton: Princeton University Press, 2010. 1-16.</a></td>
   </tr>
   <tr bgcolor="#EBF5FB">
     <td align="left">4. Lazo, Rodrigo. “Migrant Archives.” In <i>States of Emergency.</i> Russ Castronovo and Susan Gillman, ed. Chapel Hill: The University of North Carolina Press, 2009. 36-54.</td>
@@ -67,17 +73,17 @@ Image:
 
   <tr bgcolor="#EBF5FB">
     <th rowspan="4">October 4, 2018</th>
-    <td> 1. Klein, Lauren F. "The Image of Absence: Archival Silence, Data Visualization, and James Hemings." <i>American Literature</i> (2013) 85 (4): 661-688. https://doi.org/10.1215/00029831-2367310</td>
+    <td> <a href="https://archivaria.ca/index.php/archivaria/article/viewFile/12838/14058"> 1. Jeanette A. Bastian. "Taking Custody, Giving Access: A Postcustodial Role for a New Century." <i>Archivaria</i> 53 (2002). 76-93.</a></td>
     <td rowspan="4"> None. </td>
   </tr>
   <tr bgcolor="#EBF5FB">
-    <td align="left">2. Mak, Bonnie. “Archaeology of a digitization.” <i>Journal of the Association for Information Science and Technology.</i> Volume 65, Issue 8. </td>
+    <td align="left"><a href="http://libraryjuicepress.com/journals/index.php/jclis/article/view/29">2. Christian Kelleher. “Archives Without Archives.” <i>Journal of Critical Library and Information Studies.</i> Volume 1, Number 2.</a> </td>
   </tr>
   <tr bgcolor="#EBF5FB">
-    <td align="left">3. Anderson, Jane. “Anxieties of Authorship in the Colonial Archive.” In <i>Media Authorship</i>. Taylor and Francis, 2013. 229-246. DOI: 10.4324/9780203136010 </td>
+    <td align="left"><a href="http://ijoc.org/index.php/ijoc/article/view/1618">3. Kim Christen. "Does Information Really Want to be Free? Indigenous Knowledge Systems and the Question of Openness.” <i>International Journal of Communication.</i> 6 (2012). </a></td>
   </tr>
   <tr bgcolor="#EBF5FB">
-    <td align="left">4. Fuentes, Marisa. “Introduction.” In <i>Dispossessed Lives: Enslaved Women, Violence, and the Archive.</i> Philadelphia: University of Pennsylvania Press, 2016.</td>
+    <td align="left"><a href="https://medium.com/on-archivy/invisible-defaults-and-perceived-limitations-processing-the-juan-gelman-files-4187fdd36759">4. Elvia Arroyo-Ramirez. Invisible Defaults and Perceived Limitations: Processing the Juan Gelman Files.” <i>Medium.</i>October 30, 2016.</a></td>
   </tr>
 
   <tr bgcolor="LightGray">
@@ -104,7 +110,7 @@ Image:
     <td align="left">3. Ramirez, Mario. “On "Monstrous" Subjects and Human Rights Documentation.” In <i>Emerging Trends in Archival Science</i>. Karen F. Gracy, Ed. Rowman and Littlefield Publishers, 2017.</td>
   </tr>
   <tr bgcolor="LightGray">
-    <td align="left">4. Guberek, Tamy and Margaret Hedstrom. On or off the record? Detecting patterns of silence about death in Guatemala’s National Police Archive.” <i>Archival Science.</i> Volume 17, Issue 1 (March 2017). 27-54.</td>
+    <td align="left"><a href="https://deepblue.lib.umich.edu/handle/2027.42/136091">4. Guberek, T. and Hedstrom, M. On or off the record? Detecting patterns of silence about death in Guatemala’s National Police Archive. <i>Arch Sci</i> (2017), pp. 1-28.</a></td>
   </tr>
 
   <tr bgcolor="#EBF5FB">
