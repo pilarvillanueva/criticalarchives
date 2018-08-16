@@ -15,7 +15,11 @@ Image:
 * [A student collaborator's bill of rights](https://cdh.ucla.edu/news/a-student-collaborators-bill-of-rights/)
 	* Guidelines for empowering students working in the digital humanities
 * [Online Participation Contract](../../pdf/OnlineParticipationContract.pdf)
-* *Reviews of Digital Collections*  
+* *Sample Lib-Guides*
+	* [http://libguides.tulane.edu/latinos_NOLA](http://libguides.tulane.edu/latinos_NOLA)
+	* [https://guides.lib.utexas.edu/digitalhumanities](https://guides.lib.utexas.edu/digitalhumanities)
+	* [https://guides.lib.utexas.edu/latinamericanstudies](https://guides.lib.utexas.edu/latinamericanstudies)
+* *Sample Reviews of Digital Collections*  
 	* [American Archivist: Archival Technologies and Resources](https://www2.archivists.org/american-archivist-reviews/tech-and-resources)
 	* [sx archipelagos](http://www.smallaxe.net/sxarchipelagos/)
 	* [SHARP News e-resources reviews](http://www.sharpweb.org/sharpnews/category/e-resource/)

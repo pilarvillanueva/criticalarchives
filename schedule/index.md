@@ -6,8 +6,6 @@ Image:
 
 All readings are available either through the links on this website, or through canvas.  
 
-If you are not in this class and you would like access to one of these texts, email Hannah.
-
 # Calendar
 <table style="width:100%">
   <tr bgcolor="LightGray">
@@ -17,61 +15,66 @@ If you are not in this class and you would like access to one of these texts, em
   </tr>
 
   <tr bgcolor="#EBF5FB">
-    <th align="left" rowspan="5">September 6, 2018</th>
+    <th align="left" rowspan="5">September 6, 2018 (Unit 1)</th>
     <td align="left">1. <a href="https://escholarship.org/uc/item/75x090df">Caswell, Michelle. “Owning Critical Archival Studies: A Plea.” <i>Archival Education and Research Institute</i> (2016). 1-9.</a></td>
     <td align="left"  rowspan="5"> None. </td>
   </tr>
   <tr bgcolor="#EBF5FB">
-    <td align="left">2. Trouillot, Michel-Rolph. “Chapter 1: The Power in the Story.” <i>Silencing the Past: Power and the Production of History.</i> Boston: Beacon Press, 1995.  1-31.</td>
+    <td align="left"><a href="https://www2.archivists.org/groups/native-american-archives-section/protocols-for-native-american-archival-materials-information-and-resources-page">2. "Protocols for Native American Archival Materials." First Archivist Circle.</a></td>
   </tr>
   <tr bgcolor="#EBF5FB">
-    <td align="left"><a href="http://assets.press.princeton.edu/chapters/s8821.pdf">3. Stoler, Ann Laura. "Chapter 1: A Prologue in Two Parts.” <i>Along the Archival Grain.</i> Princeton: Princeton University Press, 2010. 1-16.</a></td>
+    <td align="left">3. Trouillot, Michel-Rolph. “Chapter 1: The Power in the Story.” <i>Silencing the Past: Power and the Production of History.</i> Boston: Beacon Press, 1995.  1-31.</td>
   </tr>
   <tr bgcolor="#EBF5FB">
-    <td align="left">4. Lazo, Rodrigo. “Migrant Archives.” In <i>States of Emergency.</i> Russ Castronovo and Susan Gillman, ed. Chapel Hill: The University of North Carolina Press, 2009. 36-54.</td>
+    <td align="left"><a href="http://assets.press.princeton.edu/chapters/s8821.pdf">4. Stoler, Ann Laura. "Chapter 1: A Prologue in Two Parts.” <i>Along the Archival Grain.</i> Princeton: Princeton University Press, 2010. 1-16.</a></td>
   </tr>
   <tr bgcolor="#EBF5FB">
-    <td align="left"><a href="https://www2.archivists.org/groups/native-american-archives-section/protocols-for-native-american-archival-materials-information-and-resources-page">5. "Protocols for Native American Archival Materials." First Archivist Circle.</a></td>
+    <td align="left">5. Lazo, Rodrigo. “Migrant Archives.” In <i>States of Emergency.</i> Russ Castronovo and Susan Gillman, ed. Chapel Hill: The University of North Carolina Press, 2009. 36-54.</td>
   </tr>
 
+
   <tr bgcolor="LightGray">
-    <th rowspan="4">September 13, 2018</th>
+    <th rowspan="4">September 13, 2018 (Unit 1)</th>
     <td> 1. Aguirre, Carlos and Javier Villa-Flores. “Los archivos y la construcción de la verdad histórica en América Latina.”  Jahrbuch für Geschichte Lateinamerikas, Volume 46, Issue 1 (2009). 5–18.</td>
     <td rowspan="4"> None. </td>
   </tr>
   <tr bgcolor="LightGray">
-    <td> 2. Hardy, Molly O’Hagan. "Bibliographic Enterprise and the Digital Age: Charles Evans and the Making of Early American Literature." <i>American Literary History</i>, Volume 29, Issue 2 (1 May 2017). 331–351. https://doi.org/10.1093/alh/ajx002</td>
+    <td> 2. Lara Putnam. "The Transnational and the Text-Searchable: Digitized Sources and the Shadows They Cast.” <a>American Historical Review</a> 2016 121 (2): 377-402.</td>
   </tr>
   <tr bgcolor="LightGray">
     <td> 3. Burns, Kathryn. "Introduction." <i>Into the Archive.</i> Durham: Duke University Press, 2010. 1-19.</td>
   </tr>
   <tr bgcolor="LightGray">
-    <td> 4. <a href="https://github.com/saa-ts-dacs/dacs/blob/1fcf9c4ad2888384d2664bf998e1474b44d84697/statement_of_principles.md">DACS statement of principles.</a></td>
+    <td> 4. Hardy, Molly O’Hagan. "Bibliographic Enterprise and the Digital Age: Charles Evans and the Making of Early American Literature." <i>American Literary History</i>, Volume 29, Issue 2 (1 May 2017). 331–351. https://doi.org/10.1093/alh/ajx002</td>
   </tr>
 
+
   <tr bgcolor="#EBF5FB">
-    <th rowspan="4">September 20, 2018</th>
-    <td> 1. Klein, Lauren F. "The Image of Absence: Archival Silence, Data Visualization, and James Hemings." <i>American Literature</i> (2013) 85 (4): 661-688. https://doi.org/10.1215/00029831-2367310</td>
-    <td rowspan="4"> None. </td>
+    <th rowspan="5">September 20, 2018 (Unit 1)</th>
+    <td align="left">1. Fuentes, Marisa. “Introduction.” In <i>Dispossessed Lives: Enslaved Women, Violence, and the Archive.</i> Philadelphia: University of Pennsylvania Press, 2016.</td>
+    <td rowspan="5"> None. </td>
   </tr>
   <tr bgcolor="#EBF5FB">
-    <td align="left">2. Mak, Bonnie. “Archaeology of a digitization.” <i>Journal of the Association for Information Science and Technology.</i> Volume 65, Issue 8. </td>
+    <td align="left">2. Anderson, Jane. “Anxieties of Authorship in the Colonial Archive.” In <i>Media Authorship</i>. Taylor and Francis, 2013. 229-246. DOI: 10.4324/9780203136010 </td>
   </tr>
   <tr bgcolor="#EBF5FB">
-    <td align="left">3. Anderson, Jane. “Anxieties of Authorship in the Colonial Archive.” In <i>Media Authorship</i>. Taylor and Francis, 2013. 229-246. DOI: 10.4324/9780203136010 </td>
+    <td align="left">3. Mak, Bonnie. “Archaeology of a digitization.” <i>Journal of the Association for Information Science and Technology.</i> Volume 65, Issue 8. </td>
   </tr>
   <tr bgcolor="#EBF5FB">
-    <td align="left">4. Fuentes, Marisa. “Introduction.” In <i>Dispossessed Lives: Enslaved Women, Violence, and the Archive.</i> Philadelphia: University of Pennsylvania Press, 2016.</td>
+   <td> 4. Klein, Lauren F. "The Image of Absence: Archival Silence, Data Visualization, and James Hemings." <i>American Literature</i> (2013) 85 (4): 661-688. https://doi.org/10.1215/00029831-2367310</td>
+  </tr>
+  <tr bgcolor="LightGray">
+    <td> 5. <a href="https://github.com/saa-ts-dacs/dacs/blob/1fcf9c4ad2888384d2664bf998e1474b44d84697/statement_of_principles.md">DACS statement of principles.</a></td>
   </tr>
 
   <tr bgcolor="LightGray">
-    <th rowspan="1">September 27, 2018</th>
+    <th rowspan="1">September 27, 2018 (Unit 2)</th>
     <td> 1. Weld, Kirsten. <i>Paper Cadavers.</i> Durham: Duke University Press, 2014.</td>
     <td rowspan="1"> None. </td>
   </tr>
 
   <tr bgcolor="#EBF5FB">
-    <th rowspan="4">October 4, 2018</th>
+    <th rowspan="4">October 4, 2018<br/> (Unit 2)</th>
     <td> <a href="https://archivaria.ca/index.php/archivaria/article/viewFile/12838/14058"> 1. Jeanette A. Bastian. "Taking Custody, Giving Access: A Postcustodial Role for a New Century." <i>Archivaria</i> 53 (2002). 76-93.</a></td>
     <td rowspan="4"> None. </td>
   </tr>
@@ -86,19 +89,19 @@ If you are not in this class and you would like access to one of these texts, em
   </tr>
 
   <tr bgcolor="LightGray">
-    <th rowspan="1">October 11, 2018</th>
+    <th rowspan="1">October 11, 2018 (Unit 2)</th>
     <td> Library Guide Work Day: No Readings.</td>
     <td rowspan="1"> None. </td>
   </tr>
 
   <tr bgcolor="#FFDEEB">
-    <th rowspan="1">October 12, 2018</th>
+    <th rowspan="1">October 12, 2018 (Unit 2)</th>
     <td> </td>
     <td rowspan="1"> Library Guide due by 5pm. </td>
   </tr>
 
   <tr bgcolor="LightGray">
-    <th rowspan="4">October 18, 2018</th>
+    <th rowspan="4">October 18, 2018 (Unit 2)</th>
     <td> 1.  Ghaddar, JJ. “The Spectre in the Archive: Truth, Reconciliation, and Indigenous Archival Memory.” <i>Archivaria</i> 82 (Fall 2016).</td>
     <td rowspan="4"> None. </td>
   </tr>
@@ -113,13 +116,13 @@ If you are not in this class and you would like access to one of these texts, em
   </tr>
 
   <tr bgcolor="#EBF5FB">
-    <th rowspan="1">October 25, 2018</th>
+    <th rowspan="1">October 25, 2018 (Unit 2)</th>
     <td> Humanities Media Project Proposal Work Day.</td>
     <td rowspan="1"> None. </td>
   </tr>
 
   <tr bgcolor="LightGray">
-    <th rowspan="4">November 1, 2018</th>
+    <th rowspan="4">November 1, 2018 (Unit 3)</th>
     <td> 1. Williams, Stacie M. and Jarrett M. Drake, “Power to the People: Documenting Police Violence in Cleveland,” in “Critical Archival Studies,” eds. Michelle Caswell, Ricardo Punzalan, and T-Kay Sangwand, Special issue, <i>Journal of Critical Library and Information Studies</i> 1, no. 2 (2017): 1-27.</td>
     <td rowspan="4"> None. </td>
   </tr>
@@ -134,7 +137,7 @@ If you are not in this class and you would like access to one of these texts, em
   </tr>
 
   <tr bgcolor="#EBF5FB">
-    <th rowspan="6">November 8, 2018</th>
+    <th rowspan="6">November 8, 2018 (Unit 3)</th>
     <td> 1. <a href="https://amphilsoc.org/library/protocols-for-indigenous-materials"> American Philosophical Society, “Protocols for the treatment of indigenous materials” (2013).</a></td>
     <td rowspan="6"> None. </td>
   </tr>
@@ -155,13 +158,13 @@ If you are not in this class and you would like access to one of these texts, em
   </tr>
 
   <tr bgcolor="#FFDEEB">
-    <th rowspan="1">November 9, 2018</th>
+    <th rowspan="1">November 9, 2018 (Unit 3)</th>
     <td> </td>
     <td rowspan="1"> Humanities Media Project Proposals due by 5pm. </td>
   </tr>
 
   <tr bgcolor="#EBF5FB">
-    <th rowspan="5">November 15, 2018</th>
+    <th rowspan="5">November 15, 2018 (Unit 3)</th>
     <td> 1. Jane Anderson and Kim Christen, ‘‘Chuck a Copyright on it’: Dilemmas of Digital Return and the Possibilities for Traditional Knowledge Licenses and Labels,” Museum Anthropology Review 7.1-2 (Spring-Fall 2013):105-126.</td>
     <td rowspan="5" bgcolor="#FFDEEB"> Final Project Proposals due by 5pm. </td>
   </tr>

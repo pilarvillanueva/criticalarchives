@@ -24,19 +24,20 @@ At least once during the semester, you will be assigned to serve as a Commentato
 <a href="#top">Back to top</a>
 
 # Digital Collection Review
-Over the course of the semester, each student will write one 750-900 word review of a digital archive or collection of their choice. For the purposes of this assignment, any coherent set of digital objects that has been put online by a library or archive and that has some relevance to the fields of Latin American, colonial, or Indigenous studies would be appropriate. You may choose any collection, including those featured on the resources tab of the course website. The review will be posted on the course website for a public audience, and should adhere to the following guidelines (derived from the American Archivist Reviews Online):
-Briefly describe the material, providing a simple overview and summary.  Who created it and what does it contain?
-Discuss the resource within an archival context, its relationship to archives and its significance for the discipline. This should include reference to at least one class reading.  
-Evaluate the resource as a whole in terms of its usefulness to archivists and users of archives materials. This should include not just the content of the collection, but also its interface and metadata.  
-Do not focus on minor typographical or factual errors unless the work is significantly compromised.
+Over the course of the semester, each student will write one 750-900 word review of a digital archive or collection of their choice. For the purposes of this assignment, any coherent set of digital objects that has been put online by a library or archive and that has some relevance to the fields of Latin American, colonial, or Indigenous studies would be appropriate. You may choose any collection, including those featured on the resources tab of the course website. The review will be posted on the course website for a public audience, and should adhere to the following guidelines (derived from ["How to Write a Web Review for *The American Archivist Reviews Online*"](http://files.archivists.org/periodicals/How_to_Write_a_Web_Review.pdf)):
+* Briefly describe the material, providing a simple overview and summary.  Who created it and what does it contain?
+* Discuss the resource within an archival context, its relationship to archives and its significance for the discipline. This should include reference to at least one class reading.  
+* Evaluate the resource as a whole in terms of its usefulness to archivists and users of archives materials. This should include not just the content of the collection, but also its interface and metadata.  
+* Do not focus on minor typographical or factual errors unless the work is significantly compromised.
 
-*Submission guidelines*
-Follow the “Making a Blog Post” instructions on the course website to upload your article.
+*Submission guidelines*  
+* Check out the [sample reviews on the resources tab](https://guides.lib.utexas.edu/latinamericanstudies) for inspiration.
+* Follow the [“Making a Blog Post” tutorial](../../resources/index.html) to upload your article.
 
 <a href="#top">Back to top</a>
 
-# Unit 1: Indigenous Holdings Survey Prototype
-A lib-guide is a resource, usually online, that helps researchers investigate a subject or theme. One way to think of it is as an interactive annotated bibliography that allows users to understand the kinds of resources that are available, understand how they are organized and where they are located, and identify the resources that are most useful to them.
+# Unit 1: Indigenous Holdings Lib-Guide Prototype
+A lib-guide is a resource, usually online, that helps researchers investigate a subject or theme. One way to think of it is as an interactive annotated bibliography that allows users to understand the kinds of resources that are available, understand how they are organized and where they are located, and identify the resources that are most useful to them. ([Sample lib-guides are available on the Resources page.](../../resources/))
 
 For this group assignment, the class will collectively develop a prototype of a lib-guide for indigenous materials in the Benson Latin American Collection. The assignment is motivated by the SAA Protocols for Native American Archival Materials, which call on heritage institutions to be more intentional in their approach to indigenous heritage and intellectual property. One step in this process is identifying the breadth and depth of indigenous holdings in a collection. 
 
@@ -51,10 +52,6 @@ The Benson holdings are too large to be completely surveyed for this assignment.
 * Evaluation: How should the completion of this assignment be evaluated by the instructors?
 
 These decisions will be discussed during class, but you may have to continue the discussion outside of class as well. In addition to some scheduled discussion time, you will have a full class period to work collectively prior to the submission date.
-
-http://libguides.tulane.edu/latinos_NOLA
-https://guides.lib.utexas.edu/digitalhumanities
-https://guides.lib.utexas.edu/latinamericanstudies
 
 <a href="#top">Back to top</a>
 
