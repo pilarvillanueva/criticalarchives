@@ -72,6 +72,44 @@ The assignment should be submitted as a single word document or PDF via Canvas.
 
 <a href="#top">Back to top</a>
 
-# Unit 3: To come
+# Unit 3: Final Project
+
+In the Final Project you will demonstrate mastery of concepts studied and skills acquired over the course of this semester. At the same time, you will be able to focus on a topic of your own choosing, ideally something that is related to your own scholarly or pedagogical work. Below you will find the basic requirements for the project. In a nutshell, you will:
+
+* Identify a research need (broadly defined) for a specific community 
+* Identify a manageable set of materials to help address this need
+* Produce an 800-1000 word scholarly critical introduction, in the format of your own choosing to the resource you have developed
+* Propose and attempt meaningful contact with your target audience  
+
+These parameters of the Final Project are intentionally broad, as we want you to create something that you are excited about and that will be useful to you as a scholar-teacher. To make things even more interesting, the project can be completed as a large- or small-group collaboration (we’ll give some suggestions as to what that would look like), or you can work individually. *You will turn in a brief proposal in class on November 18 (see instructions at the end of this document).*  
+
+*Identify a Research Need (Broadly Defined) for a Specific Community*  
+For example, gender studies scholars working in the Caribbean need to know about certain resources, or families of disappeared persons in Guatemala, or indigenous community members in Texas, etc. This is a hero narrative. You are identifying what you perceive to be a need. You will step in to save the day by following the below steps.  
+
+*Identify a Manageable Set of Materials to Help Address this Need*  
+Decide what kinds of resources will help address the need you have identified. Perhaps it is a subset of a collection (traditional, digital, or otherwise), or certain materials from several collections, or multiple archives, or even personal items. You could, for example, see the need to bring together doctrinal materials used to evangelize Indigenous peoples of Latin America found in Benson Rare Books, John Carter Brown Library, and the Bancroft Library. Maybe you want to focus on a single physical archive that has a plethora of materials related to commerce in 19th century South America, or perhaps you want to bring together as many digital archives you can find related to the Spanish-speaking Caribbean. Does your family desperately needs access to the letters your mother wrote to your Aunt Millie over the course of 30 years? That’s fine too. The quantity, depth, and scope is your call. All we expect is an honest effort to produce a high-quality project worth 30% of your course grade (this would be akin to the time and level of engagement you would put toward a 20-25 page high-quality term paper).  
+		
+*Produce a Scholarly Critical Introduction to the Topic(s) and Archive(s)*  
+* Describe the research need and the specific community you have identified. Explain your rationale.
+* Describe and contextualize the resources you have drawn together - who, what, where, when, why, audience, physical attributes. Explain your rationale for choosing the materials you have chosen (as opposed to others). What is your scope? Where did you draw the line?
+* Critically assess the origins and current location of the resources. You may wish to refer to your notes and readings from Unit 1 and Unit 2 as you think about this step. Make reference to at least one reading from each Unit (1, 2, 3). You may also include additional outside readings.
+* Evaluate your resources in terms of its usefulness to your target audience. This should include not just the content of the collection, but also its current interface and metadata (or lack thereof).
+* Evaluate whether your resources are easy to access in person and/or online (are they held privately at the Duke of Alba’s summer mansion? Is there a convoluted admission and request process? I’m looking at you, AGN in Mexico City). Would the scholarly communities or the general public feel comfortable working with these materials? Or are there barriers to access? 
+* Reflect upon the ethics of access: are there sensitive materials that could be considered problematic (to the people whose lives are found in the materials, or to their descendants, or perhaps a marginalized community)? Does the resource you have created have the potential to cause harm (epistemologically or physically)?
+* Propose concrete solutions for dealing with the access issues you identify
+
+*Propose and Attempt Meaningful Contact with Target Audience*  
+This is where you will have to get creative. Do you want to host a workshop? Do a poster session for a public audience at LLILAS-Benson? Do a talk at the Austin Library? Visit undergraduate classes? Reach out to tribal members? Disseminate your work among other colleagues that may be interested in your project? Make a video? Pass out a Zine to random strangers on campus? The last day of class can be used to host a workshop or colloquium, otherwise we will have an informal roundtable to discuss the projects. Note the word “attempt” - your grade does not hinge on a successful workshop or tribal members being willing to talk/work with you. In other words, you are responsible for the effort, not the outcome.  
+
+*Proposal Requirements (for November 18th)*  
+Your brief answers to these questions are not set in stone. They can and most likely will change over the course of further contemplation and research. We just want to know that you are on the right track and to be able to give you helpful suggestions.
+
+1. What is the research need and specific community you will address?
+2. Generally, what do you imagine the manageable set of materials that will help address this need to be comprised of and/or where will you seek them? What do you think your general scope will be?
+3. What type of format do you envision using for your Critical Introduction? 
+4. How do you imagine engaging with your target audience?
+
+
+
 
 <a href="#top">Back to top</a>
