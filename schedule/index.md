@@ -4,7 +4,6 @@ title: Schedule
 Image:
 ---
 
-# Note
 All readings are available either through the links on this website, or through canvas.  
 
 If you are not in this class and you would like access to one of these texts, email Hannah.
