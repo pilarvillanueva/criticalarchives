@@ -19,7 +19,7 @@ You'll be writing your blog post in Markdown.
 You have two options for composing the post:
 1. Compose in GitHub: Follow steps 1-4 in the `Publishing a Digital Review` tutorial. Once you've created a new file (in step four) you can compose the file directly in GitHub, using the "commit" feature to save the file online.
 
-2. You can also compose your post using a plain text editor, and then copy and paste it into the GitHub repository. Notebook is one popular program. I like to use [Sublime](https://www.sublimetext.com/). Follow these instructions to get started, or [view the markdown for this post](http://www.halperta.com/criticalarchives/tutorial/writing-in-markdown/).
+2. You can also compose your post using a plain text editor, and then copy and paste it into the GitHub repository. Notebook is one popular program. I like to use [Sublime](https://www.sublimetext.com/). Follow these instructions to get started, or [view the markdown version of this page](http://www.halperta.com/criticalarchives/tutorial/writing-in-markdown/).
 
 ## YAML header
 Your file should begin with a header that looks exactly like this (including the dashes):
@@ -30,7 +30,7 @@ layout: post
 title: "ENTER YOUR TITLE HERE"
 modified:
 categories: blog
-excerpt: YOU CAN INCLUDE A SENTENCE FROM THE BLOG HERE IF YOU WANT.
+excerpt: ENTER A PULL QUOTE HERE (it will show up on the Reviews home page)
 tags: []
 author: "ENTER YOUR AUTHOR ID HERE"
 image:
@@ -39,7 +39,10 @@ image:
 ```
 
 ## Content
-Below the YAML header, you should write the post just as you ordinarily would do. You can find detailed instructions on how to write in Markdown [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet), or use the following tips:
+Below the YAML header, you can start composing your review just as you normally would. The only difference is that you'll use a very simple form of encoding to add stylistic features like italics, create headings, or add other kinds of formatting.
+
+You can find detailed instructions on how to write in Markdown [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet), or use the following tips:  
+
 ```
 Headers:  
     # Heading One  
@@ -56,6 +59,11 @@ Links:
 Line Breaks:  
 	End the previous line with two spaces,  
 	then begin writing on the following line to create a line break.  
+
+Paragraphs:
+	Enter a blank line after the end of a paragraph...  
+
+	...before starting a new one.
 
 Accents:  
 	Accents and other diacritics (á, ñ, ü)  

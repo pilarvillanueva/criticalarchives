@@ -13,8 +13,8 @@ Image:
 
 # Course Documents
 * [A student collaborator's bill of rights](https://cdh.ucla.edu/news/a-student-collaborators-bill-of-rights/)
-	* Guidelines for empowering students working in the digital humanities
 * [Online Participation Contract](../../pdf/OnlineParticipationContract.pdf)
+* [Archival Studies Reading List](https://docs.google.com/document/d/1oRXH3AoaUfKLhYG3Vz0apCnxWua5mFR3dPHmV-2TVy0/edit?usp=sharing)
 * *Sample Lib-Guides*
 	* [http://libguides.tulane.edu/latinos_NOLA](http://libguides.tulane.edu/latinos_NOLA)
 	* [https://guides.lib.utexas.edu/digitalhumanities](https://guides.lib.utexas.edu/digitalhumanities)
@@ -33,7 +33,7 @@ Image:
 *Collections hosted by the University of Texas*  
 * Archivo Hist&oacute;rico de la Polic&iacute;a Nacional: [UT Website](http://ahpn.lib.utexas.edu/); [Guatemala website](http://archivohistoricopn.org/)  
 * [Latin American Digital Initiatives](https://ladi.lib.utexas.edu/)  
-* [Radio Venceremos](av.lib.utexas.edu/index.php?title=Category:Radio_Venceremos) (Note that this link may not work with browsers, like Chrome, that automatically insert `https` (instead of `http`) at the beginning of the url. Try Firefox.)  
+* [Radio Venceremos](av.lib.utexas.edu/index.php?title=Category:Radio_Venceremos) (Note that this requires http (not https) and Flash, so it might not work with phones, tablets, or browsers like Chrome. Try Firefox.)  
 * [Gabriel Garc&iacute;a M&aacute;rquez Archive Online](https://hrc.contentdm.oclc.org/digital/collection/p15878coll51/)  
 
 *Colonial Collections hosted elsewhere*  
