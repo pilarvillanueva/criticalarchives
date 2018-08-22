@@ -41,16 +41,18 @@ All readings are available either through the links on this website, or through 
   <tr bgcolor="LightGray">
     <td> 2. Aguirre, Carlos and Javier Villa-Flores. “Los archivos y la construcción de la verdad histórica en América Latina.”  Jahrbuch für Geschichte Lateinamerikas, Volume 46, Issue 1 (2009). 5–18.</td>
   </tr>
-  <tr bgcolor="LightGray">
+    <td align="left" bgcolor="lightGray">3. Fuentes, Marisa. “Introduction.” In <i>Dispossessed Lives: Enslaved Women, Violence, and the Archive.</i> Philadelphia: University of Pennsylvania Press, 2016.</td>
+<tr bgcolor="LightGray">
+    <td> 4. Tortorici, Zeb. "Introduction." In <i>Sins Against Nature: Sex and Archives in Colonial New Spain.</i> Durham: Duke University Press, 2018.</td>
+  </tr>
+<!-- <tr bgcolor="LightGray">
     <td> 3. Hardy, Molly O’Hagan. "Bibliographic Enterprise and the Digital Age: Charles Evans and the Making of Early American Literature." <i>American Literary History</i>, Volume 29, Issue 2 (1 May 2017). 331–351. https://doi.org/10.1093/alh/ajx002</td>
-  </tr>
-  <tr bgcolor="LightGray">
-    <td> 4. Lara Putnam. "The Transnational and the Text-Searchable: Digitized Sources and the Shadows They Cast.” <i>American Historical Review</i> 2016 121 (2): 377-402.</td>
-  </tr>
+  </tr> -->
 
   <tr bgcolor="#EBF5FB">
     <th rowspan="5">September 20, 2018 (Unit 1)</th>
-    <td align="left">1. Fuentes, Marisa. “Introduction.” In <i>Dispossessed Lives: Enslaved Women, Violence, and the Archive.</i> Philadelphia: University of Pennsylvania Press, 2016.</td>
+  <trbgcolor="#EBF5FB">
+    <td> 1. Lara Putnam. "The Transnational and the Text-Searchable: Digitized Sources and the Shadows They Cast.” <i>American Historical Review</i> 2016 121 (2): 377-402.</td>
     <td rowspan="5"> None. </td>
   </tr>
   <tr bgcolor="#EBF5FB">
@@ -65,6 +67,7 @@ All readings are available either through the links on this website, or through 
   <tr bgcolor="EBF5FB">
     <td> 5. <a href="https://github.com/saa-ts-dacs/dacs/blob/1fcf9c4ad2888384d2664bf998e1474b44d84697/statement_of_principles.md">DACS statement of principles.</a></td>
   </tr>
+
 
   <tr bgcolor="LightGray">
     <th rowspan="1">September 27, 2018 (Unit 2)</th>
