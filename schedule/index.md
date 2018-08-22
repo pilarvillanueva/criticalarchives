@@ -41,8 +41,9 @@ All readings are available either through the links on this website, or through 
   <tr bgcolor="LightGray">
     <td> 2. Aguirre, Carlos and Javier Villa-Flores. “Los archivos y la construcción de la verdad histórica en América Latina.”  Jahrbuch für Geschichte Lateinamerikas, Volume 46, Issue 1 (2009). 5–18.</td>
   </tr>
-    <td align="left" bgcolor="lightGray">3. Fuentes, Marisa. “Introduction.” In <i>Dispossessed Lives: Enslaved Women, Violence, and the Archive.</i> Philadelphia: University of Pennsylvania Press, 2016.</td>
-<tr bgcolor="LightGray">
+  <tr  bgcolor="lightGray">
+    <td align="left">3. Fuentes, Marisa. “Introduction.” In <i>Dispossessed Lives: Enslaved Women, Violence, and the Archive.</i> Philadelphia: University of Pennsylvania Press, 2016.</td>
+  <tr bgcolor="LightGray">
     <td> 4. Tortorici, Zeb. "Introduction." In <i>Sins Against Nature: Sex and Archives in Colonial New Spain.</i> Durham: Duke University Press, 2018.</td>
   </tr>
 <!-- <tr bgcolor="LightGray">
@@ -51,7 +52,7 @@ All readings are available either through the links on this website, or through 
 
   <tr bgcolor="#EBF5FB">
     <th rowspan="5">September 20, 2018 (Unit 1)</th>
-  <trbgcolor="#EBF5FB">
+  <tr bgcolor="#EBF5FB">
     <td> 1. Lara Putnam. "The Transnational and the Text-Searchable: Digitized Sources and the Shadows They Cast.” <i>American Historical Review</i> 2016 121 (2): 377-402.</td>
     <td rowspan="5"> None. </td>
   </tr>
