@@ -11,12 +11,14 @@ All readings are available either through the links on this website, or through 
   <tr bgcolor="LightGray">
     <th align="left">Date</th>
     <th align="left">Reading</th>
+    <th> Activities </th>
     <th align="left">Assignment</th>
   </tr>
 
   <tr bgcolor="#EBF5FB">
     <th align="left" rowspan="5">September 6, 2018 (Unit 1)</th>
     <td align="left">1. <a href="https://escholarship.org/uc/item/75x090df">Caswell, Michelle. “Owning Critical Archival Studies: A Plea.” <i>Archival Education and Research Institute</i> (2016). 1-9.</a></td>
+    <td rowspan="5"> </td>
     <td align="left"  rowspan="5"> None. </td>
   </tr>
   <tr bgcolor="#EBF5FB">
@@ -36,6 +38,7 @@ All readings are available either through the links on this website, or through 
   <tr bgcolor="LightGray">
     <th rowspan="4">September 13, 2018 (Unit 1)</th>
     <td> 1. Burns, Kathryn. "Introduction." <i>Into the Archive.</i> Durham: Duke University Press, 2010. 1-19.</td>
+    <td rowspan="4"> Lib Guide Workshop </td>
     <td rowspan="4"> None. </td>
   </tr>
   <tr bgcolor="LightGray">
@@ -53,6 +56,7 @@ All readings are available either through the links on this website, or through 
   <tr bgcolor="#EBF5FB">
     <th rowspan="5">September 20, 2018 (Unit 1)</th>
     <td> 1. Lara Putnam. "The Transnational and the Text-Searchable: Digitized Sources and the Shadows They Cast.” <i>American Historical Review</i> 2016 121 (2): 377-402.</td>
+    <td rowspan="5"> </td>
     <td rowspan="5"> None. </td>
   </tr>
   <tr bgcolor="#EBF5FB">
@@ -72,12 +76,14 @@ All readings are available either through the links on this website, or through 
   <tr bgcolor="LightGray">
     <th rowspan="1">September 27, 2018 (Unit 2)</th>
     <td> 1. Weld, Kirsten. <i>Paper Cadavers.</i> Durham: Duke University Press, 2014.</td>
+    <td rowspan="1"> Digital AHPN Workshop </td>
     <td rowspan="1"> None. </td>
   </tr>
 
   <tr bgcolor="#EBF5FB">
     <th rowspan="4">October 4, 2018<br/> (Unit 2)</th>
     <td> <a href="https://archivaria.ca/index.php/archivaria/article/viewFile/12838/14058"> 1. Jeanette A. Bastian. "Taking Custody, Giving Access: A Postcustodial Role for a New Century." <i>Archivaria</i> 53 (2002). 76-93.</a></td>
+    <td rowspan="4"> Guest Speaker: Theresa Polk, Director of Digital Initiatives, LLILAS Benson </td>
     <td rowspan="4"> None. </td>
   </tr>
   <tr bgcolor="#EBF5FB">
@@ -93,18 +99,21 @@ All readings are available either through the links on this website, or through 
   <tr bgcolor="LightGray">
     <th rowspan="1">October 11, 2018 (Unit 2)</th>
     <td> Library Guide Work Day: No Readings.</td>
+    <td rowspan="1"> </td>
     <td rowspan="1"> None. </td>
   </tr>
 
   <tr bgcolor="#FFDEEB">
     <th rowspan="1">October 12, 2018 (Unit 2)</th>
     <td> </td>
+    <td rowspan="1"> </td>
     <td rowspan="1"> Library Guide due by 5pm. </td>
   </tr>
 
   <tr bgcolor="LightGray">
     <th rowspan="4">October 18, 2018 (Unit 2)</th>
     <td> 1.  Ghaddar, JJ. “The Spectre in the Archive: Truth, Reconciliation, and Indigenous Archival Memory.” <i>Archivaria</i> 82 (Fall 2016).</td>
+    <td rowspan="4"> </td>
     <td rowspan="4"> None. </td>
   </tr>
   <tr bgcolor="LightGray">
@@ -120,12 +129,14 @@ All readings are available either through the links on this website, or through 
   <tr bgcolor="#EBF5FB">
     <th rowspan="1">October 25, 2018 (Unit 2)</th>
     <td> Humanities Media Project Proposal Work Day.</td>
+    <td rowspan="1"> </td>
     <td rowspan="1"> None. </td>
   </tr>
 
   <tr bgcolor="LightGray">
     <th rowspan="5">November 1, 2018 (Unit 3)</th>
     <td> 1. Williams, Stacie M. and Jarrett M. Drake, “Power to the People: Documenting Police Violence in Cleveland,” in “Critical Archival Studies,” eds. Michelle Caswell, Ricardo Punzalan, and T-Kay Sangwand, Special issue, <i>Journal of Critical Library and Information Studies</i> 1, no. 2 (2017): 1-27.</td>
+    <td rowspan="5"> Guest Speaker: Itza Carbajal, LLILAS Benson Metadata Librarian </td>
     <td rowspan="5"> None. </td>
   </tr>
   <tr bgcolor="LightGray">
@@ -144,6 +155,7 @@ All readings are available either through the links on this website, or through 
   <tr bgcolor="#EBF5FB">
     <th rowspan="6">November 8, 2018 (Unit 3)</th>
     <td> 1. <a href="https://amphilsoc.org/library/protocols-for-indigenous-materials"> American Philosophical Society, “Protocols for the treatment of indigenous materials” (2013).</a></td>
+    <td rowspan="6"><a href="https://mas.arizona.edu/user/patrisia-gonzales">Guest Speaker: Patrisia Gonzales</a> </td>
     <td rowspan="6"> None. </td>
   </tr>
   <tr bgcolor="#EBF5FB">
@@ -165,12 +177,14 @@ All readings are available either through the links on this website, or through 
   <tr bgcolor="#FFDEEB">
     <th rowspan="1">November 9, 2018 (Unit 3)</th>
     <td> </td>
+    <td rowspan="1"> </td>
     <td rowspan="1"> Humanities Media Project Proposals due by 5pm. </td>
   </tr>
 
   <tr bgcolor="#EBF5FB">
     <th rowspan="5">November 15, 2018 (Unit 3)</th>
     <td> 1. Jane Anderson and Kim Christen, ‘‘Chuck a Copyright on it’: Dilemmas of Digital Return and the Possibilities for Traditional Knowledge Licenses and Labels,” Museum Anthropology Review 7.1-2 (Spring-Fall 2013):105-126.</td>
+    <td rowspan="5"> </td>
     <td rowspan="5" bgcolor="#FFDEEB"> Final Project Proposals due by 5pm. </td>
   </tr>
   <tr bgcolor="#EBF5FB">
@@ -190,21 +204,22 @@ All readings are available either through the links on this website, or through 
     <th rowspan="1">November 22, 2018</th>
     <td> No Class: Thanksgiving </td>
     <td rowspan="1"> </td>
+    <td rowspan="1"> </td>
   </tr>
 
   <tr bgcolor="#EBF5FB">
     <th rowspan="1">November 29, 2018</th>
     <td> Work Day and Consultations </td>
     <td rowspan="1"> </td>
+    <td rowspan="1"> </td>
   </tr>
 
   <tr bgcolor="#FFDEEB">
     <th rowspan="1">December 6, 2018</th>
-    <td> Final Projects due; action steps implemented. </td>
-    <td rowspan="1"> </td>
+    <td colspan="3"> Final Projects due; action steps implemented. </td>
+
   </tr>
 
-</table>
 
 
 
