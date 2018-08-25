@@ -47,7 +47,7 @@ All readings are available either through the links on this website, or through 
   <tr  bgcolor="lightGray">
     <td align="left">3. Fuentes, Marisa. “Introduction.” In <i>Dispossessed Lives: Enslaved Women, Violence, and the Archive.</i> Philadelphia: University of Pennsylvania Press, 2016.</td>
   <tr bgcolor="LightGray">
-    <td> 4. Tortorici, Zeb. "Introduction." In <i>Sins Against Nature: Sex and Archives in Colonial New Spain.</i> Durham: Duke University Press, 2018. <i><a href="https://archive.nyu.edu/handle/2451/40720">See also the digital appendix.</i></a></td>
+    <td> 4. Tortorici, Zeb. "Introduction." In <i>Sins Against Nature: Sex and Archives in Colonial New Spain.</i> Durham: Duke University Press, 2018. <i><a href="https://archive.nyu.edu/handle/2451/40720">See also the digital appendix (CW sexual violence, colonial violence).</a></i></td>
   </tr>
 <!-- <tr bgcolor="LightGray">
     <td> 3. Hardy, Molly O’Hagan. "Bibliographic Enterprise and the Digital Age: Charles Evans and the Making of Early American Literature." <i>American Literary History</i>, Volume 29, Issue 2 (1 May 2017). 331–351. https://doi.org/10.1093/alh/ajx002</td>
