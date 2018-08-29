@@ -133,26 +133,26 @@ All readings are available either through the links on this website, or through 
     <td rowspan="1"> None. </td>
   </tr>
 
-  <tr bgcolor="#LightGray">
+  <tr bgcolor="LightGray">
     <th rowspan="6">November 1, 2018 (Unit 3)</th>
     <td> 1. <a href="https://amphilsoc.org/library/protocols-for-indigenous-materials"> American Philosophical Society, “Protocols for the treatment of indigenous materials” (2013).</a></td>
     <td rowspan="6"><a href="https://mas.arizona.edu/user/patrisia-gonzales">Guest Speaker: Dr. Mario Garza and María Rocha
 Miakan-Garza Band of Coahuiltecans, founders of Indigenous Cultures Institute. </a> </td>
     <td rowspan="6"> None. </td>
   </tr>
-  <tr bgcolor="#LightGray">
+  <tr bgcolor="LightGray">
     <td align="left">2. Eric Hemenway (Little Traverse Bay Bands of Odawa Indians), “Trials and tribulations in a tribal NAGPRA program,” <a>Museum Anthropology</a> 33.2 (2010): 172-179. </td>
   </tr>
-  <tr bgcolor="#LightGray">
+  <tr bgcolor="LightGray">
     <td align="left">3. Willie Ermine (Cree), “Ethical Space of Engagement,” <i>Indigenous Law Journal</i> 6.1 (2007): 193-203. </td>
   </tr>
-  <tr bgcolor="#LightGray">
+  <tr bgcolor="LightGray">
     <td align="left">4. Joshua A. Bell, Kimberly Christen, and Mark Turin, “After the Return: Digital Repatriation and the Circulation of Indigenous Knowledge Workshop Report,” <i>Museum Worlds: Advances in Research</i> 6 (2013): 195-203.</i> Philadelphia: University of Pennsylvania Press, 2016.</td>
   </tr>
- <tr bgcolor="#LightGray">
+ <tr bgcolor="LightGray">
     <td align="left">5. D.A. Smith, “From Nunavut to Micronesia: Feedback and Description, Visual Repatriation and Online Photographs of Indigenous Peoples,” <i>Partnership: the Canadian Journal of Library and Information Practice and Research</i> 3(1) (2008): 1-19. </td>
   </tr>
- <tr bgcolor="#LightGray">
+ <tr bgcolor="LightGray">
     <td align="left">6. Loriene Roy (Anishinaabe), “Indigenous Cultural Heritage Preservation: A Review Essay with Ideas for the Future,” <i>IFLA journal</i> 41.3 (2015): 192-203. </td>
   </tr>
 
