@@ -69,6 +69,7 @@ Your proposal should follow the guidelines for the [Humanities Media Project](ht
 * An itemized budget of up to $5,000.
 * A list of examples of any similar projects that have been undertaken
 * An up-to-date CV. (Please follow this format; talk to us if you have a strong preference for something different.)
+* When submitting, please include the amount of time you expected to spend on this assignment and the amount of time you actually spent on the assignment.
 
 The assignment should be submitted as a single word document or PDF via Canvas.
 
