@@ -156,41 +156,41 @@ Miakan-Garza Band of Coahuiltecans, founders of Indigenous Cultures Institute. <
     <td align="left">6. Loriene Roy (Anishinaabe), “Indigenous Cultural Heritage Preservation: A Review Essay with Ideas for the Future,” <i>IFLA journal</i> 41.3 (2015): 192-203. </td>
   </tr>
 
-  <tr bgcolor="#EBF5FB">
+  <tr bgcolor="LightGray">
     <th rowspan="5">November 8, 2018 (Unit 3)</th>
     <td> 1. Jane Anderson and Kim Christen, ‘‘Chuck a Copyright on it’: Dilemmas of Digital Return and the Possibilities for Traditional Knowledge Licenses and Labels,” Museum Anthropology Review 7.1-2 (Spring-Fall 2013):105-126.</td>
     <td rowspan="5"> Guest Speaker: Patrisia Gonzales </td>
     <td rowspan="5" bgcolor="#FFDEEB"> Final Project Proposals due by 5pm. </td>
   </tr>
-  <tr bgcolor="#EBF5FB">
+  <tr bgcolor="LightGray">
     <td align="left">2. Bolfy Cottom, “Patrimonio cultural nacional: el marco jurídico y conceptual,” (2001): 79-107. </td>
   </tr>
-  <tr bgcolor="#EBF5FB">
+  <tr bgcolor="LightGray">
     <td align="left">3. G. Pigliasco, “Intangible cultural property, tangible databases, visible debates: The Sawau project,” International Journal of Cultural Property 16, no. 3 (2009): 255-272. </td>
   </tr>
-  <tr bgcolor="#EBF5FB">
+  <tr bgcolor="LightGray">
     <td align="left">4. Jenny Newell, “Old Objects, New Media: Historical collections, digitization and affect,” Journal of Material Culture 17, no. 3 (2012): 287-306. </td>
   </tr>
- <tr bgcolor="#EBF5FB">
+ <tr bgcolor="LightGray">
     <td align="left">5.<a href="https://scholarworks.iu.edu/journals/index.php/mar/issue/view/233"> Suggested Reading: Special Issue of Museum Anthropology Review, 7.1-2 (2013): <i>After the Return: Digital Repatriation and the Circulation of Indigenous Knowledge</i>.</a> </td>
   </tr>
 
-  <tr bgcolor="LightGray">
+  <tr bgcolor="#EBF5FB">
     <th rowspan="5">November 15, 2018 (Unit 3)</th>
     <td> 1. Williams, Stacie M. and Jarrett M. Drake, “Power to the People: Documenting Police Violence in Cleveland,” in “Critical Archival Studies,” eds. Michelle Caswell, Ricardo Punzalan, and T-Kay Sangwand, Special issue, <i>Journal of Critical Library and Information Studies</i> 1, no. 2 (2017): 1-27.</td>
     <td rowspan="5"> Guest Speaker: Itza Carbajal, LLILAS Benson Metadata Librarian </td>
     <td rowspan="5"> None. </td>
   </tr>
-  <tr bgcolor="LightGray">
+  <tr bgcolor="#EBF5FB">
     <td align="left"><a href="https://medium.com/community-archives/seismic-shifts-on-archival-fact-and-fictions-6db4d5c655ae">2. Jarrett M. Drake, “Seismic Shifts: On Archival Fact and Fictions,” <i>medium.com.</i> August 20, 2018. </a></td>
   </tr>
-  <tr bgcolor="LightGray">
+  <tr bgcolor="EBF5FB">
     <td align="left">3. Michelle Caswell, Marika Cifor, and Mario H. Ramirez, “‘To Suddenly Discover Yourself Existing’: Uncovering the Impact of Community Archives,” <i>The American Archivist</i> 79, no. 1 (2016): 56-81.</td>
   </tr>
-  <tr bgcolor="LightGray">
+  <tr bgcolor="EBF5FB">
     <td align="left">4. Anthony Cocciolo, “Community Archives in the Digital Era: A Case from the LGBT Community,” <i>Preservation, Digital Technology and Culture</i> 45, no. 4 (2017): 157-165.</td>
   </tr>
-  <tr bgcolor="LightGray">
+  <tr bgcolor="EBF5FB">
     <td align="left">5. Steven High, “Telling Stories: A Reflection on Oral History and New Media,” <i>Oral History</i> 38, no. 1 (2010): 101-112.</td>
   </tr>
 
