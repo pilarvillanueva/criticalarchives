@@ -64,7 +64,7 @@ LLILAS Benson is remaking the AHPN website in order to improve access to the col
 
 In this individual assignment, you are asked to write a grant proposal for a multimedia project that would create new paths to engaging with this collection. This could be a crowdsourced metadata project; an art project; a series of videos; or another project of your choice. The outcome of the project should be supplemental to the AHPN web portal in some way. 
 
-Your proposal should follow the guidelines for the [Humanities Media Project](https://humanitiesmediaproject.org/call-for-proposals/) and should include:
+Your proposal should follow the guidelines for the [Humanities Media Project](https://humanitiesmediaproject.org/call-for-proposals/). ([PDF: in case the website goes down.](../pdf/hmp-proposalGuidelines.pdf)) Your submission should include:
 * A 2-3 page project description and justification (up to 1500 words)
 * An itemized budget of up to $5,000.
 * A list of examples of any similar projects that have been undertaken
