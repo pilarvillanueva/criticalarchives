@@ -33,3 +33,8 @@ September 5, 2018: 4:30-6pm
 Cactus Cafe  
 
 Learn more: join the list-serve at digitalhumanities@utlists.utexas.edu  
+
+## Sept 15: [Black Diaspora Archive Inaugural Event](https://www.lib.utexas.edu/events/134)  
+**Life, Leadership, and Learning: From the Archive of Edmund W. Gordon**  
+Friday, Sept 15, 2-4pm
+Benson Latin American Collection
