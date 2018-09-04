@@ -22,7 +22,7 @@ All readings are available either through the links on this website, or through 
     <td align="left"  rowspan="5"> None. </td>
   </tr>
   <tr bgcolor="#EBF5FB">
-    <td align="left"><a href="https://www2.archivists.org/groups/native-american-archives-section/protocols-for-native-american-archival-materials-information-and-resources-page">2. "Protocols for Native American Archival Materials." First Archivist Circle.</a></td>
+    <td align="left"><a href="http://www2.nau.edu/libnap-p/protocols.html">2. "Protocols for Native American Archival Materials." First Archivist Circle.</a></td>
   </tr>
   <tr bgcolor="#EBF5FB">
     <td align="left">3. Trouillot, Michel-Rolph. “Chapter 1: The Power in the Story.” <i>Silencing the Past: Power and the Production of History.</i> Boston: Beacon Press, 1995.  1-31.</td>
