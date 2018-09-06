@@ -34,7 +34,22 @@ Cactus Cafe
 
 Learn more: join the list-serve at digitalhumanities@utlists.utexas.edu  
 
+## Sept 14: [Data and Donuts](https://guides.lib.utexas.edu/data-and-donuts/fall-2018) 
+**Managing Research Data: A Guide to Good Practice**  
+Jessica Trelogan, Research Data Services (and DH superstar)  
+September 14, 2018: 3-4:30 pm in PCL Learning Lab 1  
+
 ## Sept 15: [Black Diaspora Archive Inaugural Event](https://www.lib.utexas.edu/events/134)  
 **Life, Leadership, and Learning: From the Archive of Edmund W. Gordon**  
-Friday, Sept 15, 2-4pm
-Benson Latin American Collection
+Friday, Sept 15, 2-4pm  
+Benson Latin American Collection  
+
+## Sept 21: [Data and Donuts](https://guides.lib.utexas.edu/data-and-donuts/fall-2018)
+**Metadata Basics**  
+Melanie Cofield, Head of Access Systems, UT Libraries (and metadata master)  
+September 21, 2018: 3-4:30 pm in PCL Learning Lab 1  
+
+## Sept 28: [Data and Donuts](https://guides.lib.utexas.edu/data-and-donuts/fall-2018)
+**Designing Surveys with Qualtrics**  
+Krystal Wyatt-Baxter, Head of Assessment, UT Libraries    
+September 28, 2018: 3-4:30 pm in PCL Learning Lab 1  
