@@ -18,7 +18,7 @@ All readings are available either through the links on this website, or through 
   <tr bgcolor="#EBF5FB">
     <th align="left" rowspan="5">September 6, 2018 (Unit 1)</th>
     <td align="left">1. <a href="https://escholarship.org/uc/item/75x090df">Caswell, Michelle. “Owning Critical Archival Studies: A Plea.” <i>Archival Education and Research Institute</i> (2016). 1-9.</a></td>
-    <td rowspan="5"> </td>
+    <td rowspan="5"> Lib Guide Workshop </td>
     <td align="left"  rowspan="5"> None. </td>
   </tr>
   <tr bgcolor="#EBF5FB">
@@ -38,7 +38,7 @@ All readings are available either through the links on this website, or through 
   <tr bgcolor="LightGray">
     <th rowspan="4">September 13, 2018 (Unit 1)</th>
     <td> 1. Burns, Kathryn. "Introduction." <i>Into the Archive.</i> Durham: Duke University Press, 2010. 1-19.</td>
-    <td rowspan="4"> Lib Guide Workshop </td>
+    <td rowspan="4"> 10:30 - Benson orientation with AJ Johnson </td>
     <td rowspan="4"> None. </td>
   </tr>
   <tr bgcolor="LightGray">
