@@ -38,7 +38,7 @@ All readings are available either through the links on this website, or through 
   <tr bgcolor="LightGray">
     <th rowspan="4">September 13, 2018 (Unit 1)</th>
     <td> 1. Burns, Kathryn. "Introduction." <i>Into the Archive.</i> Durham: Duke University Press, 2010. 1-19.</td>
-    <td rowspan="4"> 10:30 - Benson orientation with AJ Johnson </td>
+    <td rowspan="4"> 10:30: Benson orientation with AJ Johnson </td>
     <td rowspan="4"> None. </td>
   </tr>
   <tr bgcolor="LightGray">
