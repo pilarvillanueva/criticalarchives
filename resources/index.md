@@ -11,6 +11,12 @@ Image:
 {% endfor %}
 </ul>
 
+# Digital Scholarship Lab
+* For help using the course website or uploading your Critical Review to GitHub, visit the Digital Scholarship Lab at the Benson.
+	* Office Hours: Wednesday 9-11 Friday 1-3.
+	* Schedule an appointment: email lb-digital@utlists.utexas.edu
+	* More Information: [http://sites.utexas.edu/llilasbensonds/digital-scholarship-lab/](http://sites.utexas.edu/llilasbensonds/digital-scholarship-lab/)
+
 # Course Documents
 * [A student collaborator's bill of rights](https://cdh.ucla.edu/news/a-student-collaborators-bill-of-rights/)
 * [Online Participation Contract](../../pdf/OnlineParticipationContract.pdf)
