@@ -49,6 +49,12 @@ Benson Latin American Collection
 Melanie Cofield, Head of Access Systems, UT Libraries (and metadata master)  
 September 21, 2018: 3-4:30 pm in PCL Learning Lab 1  
 
+## [Sept 21: Foro Urgente: Brazil's Museu Nacional](https://www.facebook.com/events/321829198570488/)
+**Cries from the Ashes: Brazil’s Museu Nacional and the Loss of Cultural Heritage**  
+Friday, Sept. 21  
+12:00-1:30pm  
+SRH 1.208  
+
 ## Sept 28: [Data and Donuts](https://guides.lib.utexas.edu/data-and-donuts/fall-2018)
 **Designing Surveys with Qualtrics**  
 Krystal Wyatt-Baxter, Head of Assessment, UT Libraries    
