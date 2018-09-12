@@ -15,7 +15,7 @@ image:
 
 ## Hannah Alpert-Abrams 
 she, her, hers | please call me Hannah \\
-E-mail: h.alpert-abrams@austin.utexas.edu  
+E-mail: halperta@gmail.com   
 Office: SRH 1.324  
 Office Hours: Tuesday 1-4, by appointment: https://halperta.youcanbook.me
 
