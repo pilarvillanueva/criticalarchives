@@ -25,10 +25,16 @@ Image:
 	* [http://libguides.tulane.edu/latinos_NOLA](http://libguides.tulane.edu/latinos_NOLA)
 	* [https://guides.lib.utexas.edu/digitalhumanities](https://guides.lib.utexas.edu/digitalhumanities)
 	* [https://guides.lib.utexas.edu/latinamericanstudies](https://guides.lib.utexas.edu/latinamericanstudies)
-* *Sample Reviews of Digital Collections*  
-	* [American Archivist: Archival Technologies and Resources](https://www2.archivists.org/american-archivist-reviews/tech-and-resources)
-	* [sx archipelagos](http://www.smallaxe.net/sxarchipelagos/)
-	* [SHARP News e-resources reviews](http://www.sharpweb.org/sharpnews/category/e-resource/)
+
+# Sample Reviews of Digital Collections*  
+* [American Archivist: Archival Technologies and Resources](https://www2.archivists.org/american-archivist-reviews/tech-and-resources)
+	* [Bexar Archives Online](https://www2.archivists.org/sites/all/files/BexarOnline.pdf)
+	* [Gallica: Digital Library of the Bibliothèque nationale de France](https://www2.archivists.org/sites/all/files/Gallica.pdf)
+	* [A Tale of Two Plantations](https://www2.archivists.org/sites/all/files/Two%20Plantations.pdf)
+* [sx archipelagos](http://www.smallaxe.net/sxarchipelagos/)
+	* [Digital Archaeological Archive of Comparative Slavery](http://www.smallaxe.net/sxarchipelagos/issue02/monroe-review.html)
+	* [The Caribbean Memory Project](http://www.smallaxe.net/sxarchipelagos/issue02/hudson-review.html)
+* [SHARP News e-resources reviews](http://www.sharpweb.org/sharpnews/category/e-resource/)
 
 # Digital Collections
 *Bibliographies of digital collections*  

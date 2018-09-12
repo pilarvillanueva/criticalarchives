@@ -56,7 +56,7 @@ All readings are available either through the links on this website, or through 
   <tr bgcolor="#EBF5FB">
     <th rowspan="5">September 20, 2018 (Unit 1)</th>
     <td> 1. Lara Putnam. "The Transnational and the Text-Searchable: Digitized Sources and the Shadows They Cast.” <i>American Historical Review</i> 2016 121 (2): 377-402.</td>
-    <td rowspan="5"> </td>
+    <td rowspan="5"> Lib-Guide Workshop 2 </td>
     <td rowspan="5"> None. </td>
   </tr>
   <tr bgcolor="#EBF5FB">
