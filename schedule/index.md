@@ -160,7 +160,7 @@ Miakan-Garza Band of Coahuiltecans, founders of Indigenous Cultures Institute. <
     <th rowspan="5">November 8, 2018 (Unit 3)</th>
     <td> 1. Jane Anderson and Kim Christen, ‘‘Chuck a Copyright on it’: Dilemmas of Digital Return and the Possibilities for Traditional Knowledge Licenses and Labels,” Museum Anthropology Review 7.1-2 (Spring-Fall 2013):105-126.</td>
     <td rowspan="5"> Guest Speaker: Patrisia Gonzales </td>
-    <td rowspan="5" bgcolor="#FFDEEB"> </td>
+    <td rowspan="5"> </td>
   </tr>
   <tr bgcolor="#EBF5FB">
     <td align="left">2. Bolfy Cottom, “Patrimonio cultural nacional: el marco jurídico y conceptual,” (2001): 79-107. </td>
@@ -186,7 +186,7 @@ Miakan-Garza Band of Coahuiltecans, founders of Indigenous Cultures Institute. <
     <th rowspan="5">November 15, 2018 (Unit 3)</th>
     <td> 1. Williams, Stacie M. and Jarrett M. Drake, “Power to the People: Documenting Police Violence in Cleveland,” in “Critical Archival Studies,” eds. Michelle Caswell, Ricardo Punzalan, and T-Kay Sangwand, Special issue, <i>Journal of Critical Library and Information Studies</i> 1, no. 2 (2017): 1-27.</td>
     <td rowspan="5"> Guest Speaker: Itza Carbajal, LLILAS Benson Metadata Librarian </td>
-    <td rowspan="5">  Final Project Proposals due by 5pm. </td>
+    <td rowspan="5" bgcolor="#FFDEEB">  Final Project Proposals due by 5pm. </td>
   </tr>
   <tr bgcolor="LightGray">
     <td align="left"><a href="https://medium.com/community-archives/seismic-shifts-on-archival-fact-and-fictions-6db4d5c655ae">2. Jarrett M. Drake, “Seismic Shifts: On Archival Fact and Fictions,” <i>medium.com.</i> August 20, 2018. </a></td>
