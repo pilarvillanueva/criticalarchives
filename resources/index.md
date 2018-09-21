@@ -43,6 +43,7 @@ Image:
 * [US Latinx DH projects database](https://docs.google.com/spreadsheets/d/1wtOeETfLvCv4ZYKxj0xiB6mqh3GfFqvRv8U9LVr_OkM/htmlview)
 
 *Collections hosted by the University of Texas*  
+* [Texas Archival Resources Online](https://legacy.lib.utexas.edu/taro/)
 * Archivo Hist&oacute;rico de la Polic&iacute;a Nacional: [UT Website](http://ahpn.lib.utexas.edu/); [Guatemala website](http://archivohistoricopn.org/)  
 * [Latin American Digital Initiatives](https://ladi.lib.utexas.edu/)  
 * [Radio Venceremos](av.lib.utexas.edu/index.php?title=Category:Radio_Venceremos) (Note that this requires http (not https) and Flash, so it might not work with phones, tablets, or browsers like Chrome. Try Firefox.)  
