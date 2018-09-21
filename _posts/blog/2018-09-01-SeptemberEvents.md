@@ -44,6 +44,13 @@ September 14, 2018: 3-4:30 pm in PCL Learning Lab 1
 Friday, Sept 15, 2-4pm  
 Benson Latin American Collection  
 
+## Sept 20: [Queer Archives with Ann Cvetkovich and Grayson Hunt](https://docs.google.com/document/d/1oRXH3AoaUfKLhYG3Vz0apCnxWua5mFR3dPHmV-2TVy0/edit#)
+**Archives and Social Justice Reading Group**
+September 20, 2-3pm at Benson LAC special collections meeting room (second floor, down the hall from the bathrooms)
+* [Erin Baucom: "An Exploration into Archival Descriptions of LGBTQ Materials" (American Archivist, 2018).](http://americanarchivist.org/doi/pdf/10.17723/0360-9081-81.1.65?code=SAME-site)
+* Queering Archives: A Roundtable Discussion. Radical American History Review. 2015.  [pdf](https://drive.google.com/file/d/18ifca16nCxtIFjSNeK8Xt7L0s5N84u9w/view?usp=sharing)  
+
+
 ## Sept 21: [Data and Donuts](https://guides.lib.utexas.edu/data-and-donuts/fall-2018)
 **Metadata Basics**  
 Melanie Cofield, Head of Access Systems, UT Libraries (and metadata master)  
