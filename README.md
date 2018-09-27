@@ -32,7 +32,7 @@ To learn how to install and use this theme check out the [Setup Guide](http://mm
 
 To preview  or to go live:
 * in config.yml: comment out base url. (this may not be necessary)
-* run bundle exec jekyll serve
+* run: bundle exec jekyll serve
 * navigate to http://localhost:4000/ 
 
 to add authors
@@ -40,6 +40,8 @@ to add authors
 
 to edit top menu
 * _data/navigation.yml
+
+
 
 
 

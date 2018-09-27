@@ -21,6 +21,7 @@ gems:
   - jekyll-gist
   - jekyll-feed 
 remote_theme: "mmistakes/so-simple-theme"
+google_analytics: UA-39643895-2
 
 kramdown:
   input: GFM
