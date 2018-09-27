@@ -1,4 +1,16 @@
-# *Review of the Onda Latina Collection*
+---
+layout: post
+title: "Review of the Onda Latina Collection"
+modified:
+categories: blog
+excerpt: "It’s always particularly interesting to find an archival resource that connects us more deeply to our subject’s humanity" 
+tags: []
+author: cngarcia
+image:
+  feature:
+---
+
+# Review of the *Onda Latina Collection*
 
 *Onda Latina Collection*. Nettie Lee Benson Latin American Collection and University of Texas Liberal Arts Instructional Technology Services and the Center for Mexican American Studies and History Department, 2009, http://www.laits.utexas.edu/onda_latina/index. Accessed 18 Sept. 2018. 
 
