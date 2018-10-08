@@ -12,7 +12,7 @@ image:
 ---
 
 *Escritos de mujeres*. Instituto de Investigaciones sobre la Universidad y la Educación, 
-Universidad Autónoma de México. Web. 29 septiembre 2018. <(http://www.iisue.unam.mx/escritoras/)>
+Universidad Autónoma de México. Web. 29 septiembre 2018. < (http://www.iisue.unam.mx/escritoras/) >
 
 
 “La historia la escriben los vencedores”. Esta famosa cita atribuida a Napoleón Bonaparte se ha convertido en un lugar común al hablar de historia. Ha sido usada para señalar la lucha y dominación entre dos culturas, clases, o razas, pero rara vez se ha analizado en términos de género. Ahora bien, lo más interesante de esta es que revela el carácter procedimental de la historia; una narrativa donde se construye *lo que pasó*, y *lo que se dice que pasó* (Trouillot 2). En este sentido, es necesario preguntarse no solo quiénes han escrito la historia, sino que también qué género es el que lo ha hecho. Es en esta reflexión que llego al archivo, y en este caso, al archivo de las mujeres.
