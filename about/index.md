@@ -26,7 +26,7 @@ I am a CLIR Postdoctoral Fellow in Data Curation for Latin American Studies at t
 she, her, hers | please call me Kelly \\
 E-mail: kelly.mcdonough@austin.utexas.edu  
 Office: BEN 3.142  
-Office Hours: Weds 12:30-3:30, by appointment: [https://kellysmcdonough.youcanbook.me/](https://kellysmcdonough.youcanbook.me/)
+Office Hours: Tues 2:30-5:30, by appointment: [https://kellysmcdonough.youcanbook.me/](https://kellysmcdonough.youcanbook.me/)
 
 I am an associate professor in Spanish and Portuguese at the University of Texas at Austin. My research has focused on how indigenous people—specifically Nahuas in Mexico—have utilized the written word to shape and respond to modernity as intellectuals within and beyond their communities of origin, from the colonial period through the present day. This broad research goal encompasses three primary fields: 1) Colonial/Postcolonial Latin American Literary/Cultural Studies; 2) Critical Indigenous Studies; and 3) Ethnohistory. My current work deals with indigenous (primarily Nahua) science and technology.
 
