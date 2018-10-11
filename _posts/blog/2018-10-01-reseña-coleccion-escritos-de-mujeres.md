@@ -3,8 +3,8 @@ layout: post
 title: "Reseña de la Colección Escritos de Mujeres"
 modified:
 categories: blog
-excerpt: Volver a estos archivos y publicarlos no solo implica escuchar la voz de las mujeres de la época, sino 
-que también identificar el poder que ha estado atado a estas narrativas.
+excerpt: "Volver a estos archivos y publicarlos no solo implica escuchar la voz de las mujeres de la época, sino 
+que también identificar el poder que ha estado atado a estas narrativas."
 tags: []
 author: "pilarvillanueva"
 image:
@@ -24,7 +24,9 @@ Un grupo de estudiantes comenzaron a cuestionar el vacío respecto a la experien
 Las dos primeras corresponden a las monjas que fundaron el primer Convento de las Carmelitas Descalzas, y cuentan las dificultades que tuvieron que enfrentar para conseguir este espacio solo para mujeres. El tercer libro trata del misticismo de Isabel Manuela de Santa María que, mediante la experiencia sensorial del amor, produce una fusión con la divinidad. El último libro, corresponde al diario de viajes de la Marquesa de Amarillas, una mujer de la oligarquía que junto a su esposo viajaron de Cádiz hasta la ciudad de México.
 
 
-Como mujer y feminista, encontrarme con estos archivos significa una posibilidad hacia la (re)construcción de nuestra memoria y de ciertos silencios de la historia. Volver a estos archivos y publicarlos no solo implica escuchar la voz de las mujeres de la época, sino que también identificar el poder que ha estado atado a estas narrativas. Trouillot (1995) reconoce que los silencios de la historia ocurren en cuatro momentos cruciales; la creación del hecho (la fuente), la realización del archivo (registro), la recuperación (narración del hecho), y el significado retrospectivo (se convierte en historia) (pág. 26). En este sentido, estos archivos nos permiten reflexionar sobre estos cuatro momentos y la marginalización de la mujer, pues el hecho de que la imprenta estuviese cerrada para las mujeres o que muchas tuvieran que firmar bajo identidades masculinas, nos hablan de una realidad histórica y social asociada al género. 
+Como mujer y feminista, encontrarme con estos archivos significa una posibilidad hacia la (re)construcción de nuestra memoria y de ciertos silencios de la historia. Volver a estos archivos y publicarlos no solo implica escuchar la voz de las mujeres de la época, sino que también identificar el poder que ha estado atado a estas narrativas. Trouillot (1995) reconoce que los silencios de la historia ocurren en cuatro momentos cruciales; la creación del hecho (la fuente), la realización del archivo (registro), la recuperación (narración del hecho), y el significado retrospectivo (se convierte en historia) (pág. 26). En este sentido, estos archivos nos permiten reflexionar sobre estos cuatro momentos y la marginalización de la mujer, pues el hecho de que la imprenta estuviese cerrada para las mujeres o que muchas tuvieran que firmar bajo identidades masculinas, nos hablan de una realidad histórica y social asociada al género.  
+
+
 Me pregunto entonces, ¿por qué los eventos relacionados a las mujeres no se consideraron? ¿Por qué las mujeres escribieron su testimonio aún bajo estas condiciones? ¿Qué mujeres pudieron hacerlo? ¿Qué otras narrativas se han construido respecto a ellas? ¿Cómo estos escritos dialogan con los archivos institucionales masculinos y con la producción actual? ¿Qué nuevos silencios sobre las mujeres nos revelan estos archivos?
 
 
