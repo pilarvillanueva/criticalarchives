@@ -19,11 +19,11 @@ kmcdonough:
   google:
     plus: 
     
-newstudent:
-  name: New Student
-  email: new.student@austin.utexas.edu
-  bio: Graduate Student, Department of Spanish and Portuguese
-  avatar: newstudent.jpeg
+cngarcia:
+  name: Camille Garcia
+  email: camillenicgarcia@gmail.com
+  bio: Graduate Student, Department of Latin American Studies
+  avatar: 
   twitter: 
   google:
     plus: 
@@ -36,3 +36,12 @@ pilarvillanueva:
   twitter: 
   google:
     plus: 
+    
+ashleyngarcia:
+  name: Ashley Nelcy Garcia
+  email: ashngar@austin.utexas.edu
+  bio: Graduate Student, Department of Spanish and Portuguese
+  avatar: 
+  twitter: ashngar
+  google:
+    plus:     
